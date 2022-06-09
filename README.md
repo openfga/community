@@ -8,6 +8,6 @@ Welcome to the OpenFGA Feedback repository. This repository is home to the OpenF
 
 Tips for getting the most out of your discussions post:
 
-- Include code examples! Even better if you can add a [Playground](https://play.fga.dev) link.
-- Let us know what steps you've already tried.
-- Link to any relevant GitHub issues or other discussions posts.
+1. Include code examples! Even better if you can add a [Playground](https://play.fga.dev) link.
+2. Let us know what steps you've already tried.
+3. Link to any relevant GitHub issues or other discussions posts.
