@@ -1,4 +1,7 @@
 
+
+TEST README change - CLA Assistant testing
+
 Welcome to the OpenFGA Feedback repository. This repository is home to the OpenFGA Discussions board.
 
 - To ask questions use [Discussions](https://github.com/openfga/community/discussions).
