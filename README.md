@@ -11,3 +11,11 @@ Tips for getting the most out of your discussions post:
 1. Include code examples! Even better if you can add a [Playground](https://play.fga.dev) link.
 2. Let us know what steps you've already tried.
 3. Link to any relevant GitHub issues or other discussions posts.
+
+# OpenFGA Swag
+
+We designed a OpenFGA [sticker](brand-assets/openfga-sticker.ai) and [t-shirt](brand-assets/openfga-tshirt.ai) that you can get printed if you want 😀.
+
+![swag](media/swag.png)
+
+We ordered [this RealThread model](https://www.realthread.com/products/next-level-apparel-6210-premium-cvc-crew?color=charcoal&side=front) for t-shirts, and [die cut StickerMule stickers](https://www.stickermule.com/products/die-cut-stickers).
