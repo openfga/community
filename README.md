@@ -18,4 +18,4 @@ We designed a OpenFGA [sticker](brand-assets/openfga-sticker.ai) and [t-shirt](b
 
 ![swag](media/swag.png)
 
-We ordered [this RealThread model](https://www.realthread.com/products/next-level-apparel-6210-premium-cvc-crew?color=charcoal&side=front) for t-shirts, and [die cut StickerMule stickers](https://www.stickermule.com/products/die-cut-stickers).
+We ordered [this RealThread model](https://www.realthread.com/products/next-level-apparel-6210-premium-cvc-crew?color=charcoal&side=front) for t-shirts, and [die cut StickerMule 2" x 2" stickers](https://www.stickermule.com/products/die-cut-stickers).
