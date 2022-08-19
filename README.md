@@ -1,10 +1,12 @@
 
 Welcome to the OpenFGA Feedback repository. This repository is home to the OpenFGA Discussions board.
 
-- To ask questions use [Discussions](https://github.com/openfga/community/discussions).
+- To ask questions and enhancements requests, use [Discussions](https://github.com/openfga/community/discussions).
 - To chat with our community use [Discord](https://discord.gg/8naAwJfWN6).
 - To keep up to date with current news, use [Twitter](https://twitter.com/openfga).
 - To learn about OpenFGA use [our docs](https://openfga.dev/docs).
+- To report issues in a repository, use Github issues.
+- To contribute, check our [contribution guidelines](https://github.com/openfga/.github/blob/main/CONTRIBUTING.md).
 
 Tips for getting the most out of your discussions post:
 
