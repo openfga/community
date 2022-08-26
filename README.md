@@ -14,6 +14,11 @@ Tips for getting the most out of your discussions post:
 2. Let us know what steps you've already tried.
 3. Link to any relevant GitHub issues or other discussions posts.
 
+# Community Projects
+
+[Quarkus Extension for Zanzibar Style Fine Grained Authorization](https://github.com/kdubb/quarkus-zanzibar-extensions)
+
+
 # OpenFGA Swag
 
 We designed a OpenFGA [sticker](brand-assets/openfga-sticker.ai) and [t-shirt](brand-assets/openfga-tshirt.ai) that you can get printed if you want 😀.
