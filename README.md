@@ -17,7 +17,7 @@ Tips for getting the most out of your discussions post:
 # Community Projects
 
 [Quarkus Extension for Zanzibar Style Fine Grained Authorization](https://github.com/kdubb/quarkus-zanzibar-extensions)
-
+[OpenFGA & Auth0 FGA for ASP.NET Core + Worker Services](https://github.com/Hawxy/Fga.Net)
 
 # OpenFGA Swag
 
