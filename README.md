@@ -7,6 +7,7 @@ Welcome to the OpenFGA Feedback repository. This repository is home to the OpenF
 - To learn about OpenFGA, take a look at [our documentation](https://openfga.dev/docs).
 - To report issues in a repository, use the Github issues section in that repository
 - To contribute, check out the [contribution guidelines](https://github.com/openfga/.github/blob/main/CONTRIBUTING.md).
+- To learn more about what's coming, check out our [roadmap](https://github.com/orgs/openfga/projects/1).
 
 Tips for getting the most out of your discussions post:
 
