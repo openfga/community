@@ -23,6 +23,8 @@ Tips for getting the most out of your discussions post:
 
 [Custom Open Policy Agent with prototypical support for OpenFGA](https://github.com/thomasdarimont/custom-opa-openfga)
 
+[Keycloack + OpenFGA ontegration)[https://github.com/embesozzi/keycloak-openfga-workshop]
+
 # OpenFGA Swag
 
 We designed a OpenFGA [sticker](brand-assets/openfga-sticker.ai) and [t-shirt](brand-assets/openfga-tshirt.ai) that you can get printed if you want 😀.
