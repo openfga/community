@@ -23,7 +23,7 @@ Tips for getting the most out of your discussions post:
 
 [Custom Open Policy Agent with prototypical support for OpenFGA](https://github.com/thomasdarimont/custom-opa-openfga)
 
-[Keycloack + OpenFGA integration](https://github.com/embesozzi/keycloak-openfga-workshop)
+[Keycloak + OpenFGA integration](https://github.com/embesozzi/keycloak-openfga-workshop)
 
 [OpenFGA + SCIM Bridge](https://github.com/SUSE-Skyscraper/openfga-scim-bridge)
 
