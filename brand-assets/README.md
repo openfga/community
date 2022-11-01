@@ -63,7 +63,7 @@ With many browsers, you can right click and copy the logo of your choice below. 
     <tr>
         <th></th>
         <th>for light backgrounds</th>
-        <th>for dark backgrounds</th>
+        <th>for neutral-to-dark backgrounds</th>
         <th>for black backgrounds</th>
     </tr>
     <tr>
