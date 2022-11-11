@@ -29,3 +29,6 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 [Keycloak + OpenFGA integration](https://github.com/embesozzi/keycloak-openfga-workshop)
 
 [OpenFGA + SCIM Bridge](https://github.com/SUSE-Skyscraper/openfga-scim-bridge)
+
+
+Testing EasyCLA
