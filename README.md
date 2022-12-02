@@ -20,12 +20,9 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 
 ## Community Projects
 
-[Quarkus Extension for Zanzibar Style Fine Grained Authorization](https://github.com/kdubb/quarkus-zanzibar-extensions)
-
-[OpenFGA & Auth0 FGA for ASP.NET Core + Worker Services](https://github.com/Hawxy/Fga.Net)
-
-[Custom Open Policy Agent with prototypical support for OpenFGA](https://github.com/thomasdarimont/custom-opa-openfga)
-
-[Keycloak + OpenFGA integration](https://github.com/embesozzi/keycloak-openfga-workshop)
-
-[OpenFGA + SCIM Bridge](https://github.com/SUSE-Skyscraper/openfga-scim-bridge)
+- [Quarkus Extension for Zanzibar Style Fine Grained Authorization](https://github.com/kdubb/quarkus-zanzibar-extensions)
+- [OpenFGA & Auth0 FGA for ASP.NET Core + Worker Services](https://github.com/Hawxy/Fga.Net)
+- [Custom Open Policy Agent with prototypical support for OpenFGA](https://github.com/thomasdarimont/custom-opa-openfga)
+- [Keycloak OpenFGA integration](https://github.com/embesozzi/keycloak-openfga-workshop)
+- [OpenFGA SCIM Bridge](https://github.com/SUSE-Skyscraper/openfga-scim-bridge)
+- [OpenFGA Helm Chart](https://github.com/AlexandreBrg/openfga-helm)
