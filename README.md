@@ -1,4 +1,4 @@
-Welcome to the OpenFGA Feedback repository. This repository is home to the OpenFGA Discussions board.
+Welcome to the OpenFGA Community and Feedback repository. This repository is home to the OpenFGA Discussions board.
 
 - To ask questions, request enhancements and provide feedback on the product, post in [Discussions](https://github.com/orgs/openfga/discussions).
 - To chat with our community use [Discord](https://discord.gg/8naAwJfWN6).
@@ -13,6 +13,10 @@ Tips for getting the most out of your discussions post:
 1. Include code examples! Even better if you can add a [Playground](https://play.fga.dev) link.
 2. Let us know what steps you've already tried.
 3. Link to any relevant GitHub issues or other discussions posts.
+
+## Governance
+
+Learn about the OpenFGA project's Governance model by reviewing [this GOVERNANCE.md file](https://github.com/openfga/.github/blob/main/GOVERNANCE.md).
 
 ## Brand Assets
 
