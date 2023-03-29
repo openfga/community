@@ -6,4 +6,4 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 
 * [Auth0 FGA](https://fga.dev/)
 * [Twintag](https://twintag.com)
-* [mapped](https://www.mapped.com/)
+* [Mapped](https://www.mapped.com/)
