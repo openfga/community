@@ -36,3 +36,6 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Terraform for AWS/Postgres](https://github.com/craigpastro/terraform-aws-openfga)
 - [Benchmarking & Load Testing with k6](https://github.com/jon-whit/k6-openfga-test)
 
+## Community Meetings
+
+We hold a monthly meeting to interact with the community, collaborate and receive/provide feedback. You can find more details, including the time, our agenda, and the meeting minutes [here](https://github.com/openfga/community/blob/main/community-meetings.md).
