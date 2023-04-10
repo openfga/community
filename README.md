@@ -2,7 +2,7 @@ Welcome to the OpenFGA Community and Feedback repository. This repository is hom
 
 - To ask questions, request enhancements and provide feedback on the product, post in [Discussions](https://github.com/orgs/openfga/discussions).
 - To chat with our community use [Discord](https://discord.gg/8naAwJfWN6).
-- To keep up to date with current news, follow OpenFGA on [Twitter](https://twitter.com/openfga).
+- To keep up to date with current news, follow OpenFGA on [Twitter](https://twitter.com/openfga) and subscribe to the [cncf-openfga-users](https://lists.cncf.io/g/cncf-openfga-users) mailing list.
 - To learn about OpenFGA, take a look at [our documentation](https://openfga.dev/docs).
 - To report issues in a repository, use the Github issues section in that repository
 - To contribute, check out the [contribution guidelines](https://github.com/openfga/.github/blob/main/CONTRIBUTING.md).
