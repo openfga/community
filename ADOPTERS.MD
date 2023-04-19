@@ -9,3 +9,4 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 * [Mapped](https://www.mapped.com/)
 * [Procure Ai](https://www.procure.ai/)
 * [Canonical](https://ubuntu.com/)
+* [Wolt](https://wolt.com/)
