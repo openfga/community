@@ -24,7 +24,8 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 
 ## Community Projects
 
-- [Quarkus Extension for Zanzibar Style Fine Grained Authorization](https://github.com/kdubb/quarkus-zanzibar-extensions)
+- [Official Quarkus extension for OpenFGA support](https://github.com/quarkiverse/quarkus-openfga-client)
+- [Official Quarkus Zanzibar support](https://github.com/quarkiverse/quarkus-zanzibar)
 - [OpenFGA ASP.NET Core + Worker Services SDK](https://github.com/Hawxy/Fga.Net)
 - [OpenFGA Elixir SDK](https://github.com/msutkowski/fga-elixir-sdk)
 - [OpenFGA Kotlin SDK](https://github.com/Ozee-io/fga-kotlin-sdk)
@@ -33,6 +34,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [OpenFGA SCIM Bridge](https://github.com/SUSE-Skyscraper/openfga-scim-bridge)
 - [OpenFGA Helm Chart](https://github.com/AlexandreBrg/openfga-helm)
 - [OpenFGA CLI](https://github.com/ArcticGizmo/fga-cli)
+- [Unofficial OpenFGA CLI](https://github.com/rhamzeh/openfga-cli)
 - [Terraform for AWS/Postgres](https://github.com/craigpastro/terraform-aws-openfga)
 - [Benchmarking & Load Testing with k6](https://github.com/jon-whit/k6-openfga-test)
 
