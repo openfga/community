@@ -13,3 +13,4 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - [Italarchivi](https://www.italarchivi.it/)
 - [Read AI](https://www.read.ai/)
 - [Virtool](https://www.virtool.ca/)
+- [Configu](https://configu.com/)
