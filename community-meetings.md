@@ -6,6 +6,6 @@ You can import the OpenFGA Community calendar using [this ical link](https://cal
 
 We keep the agenda, the zoom link, and meeting notes [here](https://docs.google.com/document/d/1Y6rbD0xpGLVl-7CmeMgxi56_a0ibIQ_RojvWBbT9MZk/edit#), feel free to add any topics to the next meeting's agenda.
 
-Meeting recordings are available in our [YouTube Channel](https://www.youtube.com/watch?v=7HG0ajwhsIw&list=PLUR5l-oTFZqUneyHz-h4WzaJssgxBXdxB).
+Meeting recordings are available in our [YouTube Channel](https://www.youtube.com/playlist?list=PLUR5l-oTFZqUneyHz-h4WzaJssgxBXdxB).
 
 OpenFGA follows the [CNCF Code of Conduct](https://github.com/cncf/foundation/blob/master/code-of-conduct.md).
