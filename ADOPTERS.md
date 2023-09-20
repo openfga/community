@@ -15,3 +15,4 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - [Virtool](https://www.virtool.ca/)
 - [Configu](https://configu.com/)
 - [Fianu Labs](https://fianu.io/)
+- [ExcID](https://www.excid.io)
