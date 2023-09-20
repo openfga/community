@@ -14,3 +14,4 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - [Read AI](https://www.read.ai/)
 - [Virtool](https://www.virtool.ca/)
 - [Configu](https://configu.com/)
+- [ExcID](https://www.excid.io)
