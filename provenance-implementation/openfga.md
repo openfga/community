@@ -1,6 +1,6 @@
 # OpenFGA Provenance Implementation & Consumption
 
-_NOTE: The following document was dervied from the [Argo CD provenance implementation document](https://github.com/cncf/tag-security/blob/main/provenance-implementation/argo/argo-cd.md). We chose to use this as a template as it has already been accepted by the [tag-security](https://github.com/cncf/tag-security) group of CNCF._
+_NOTE: The following document was derived from the [Argo CD provenance implementation document](https://github.com/cncf/tag-security/blob/main/provenance-implementation/argo/argo-cd.md). We chose to use this as a template as it has already been accepted by the [tag-security](https://github.com/cncf/tag-security) group of CNCF._
 
 ## OpenFGA Provenance Intent
 
