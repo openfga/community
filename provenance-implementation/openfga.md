@@ -48,12 +48,12 @@ Run the following command as per the [slsa-verifier documentation](https://githu
 
 ```bash
 # Get the immutable container image to prevent TOCTOU attacks https://github.com/slsa-framework/slsa-verifier#toctou-attacks
-IMAGE=openfga/openfga:v1.3.5
+IMAGE=openfga/openfga:v1.3.6
 IMAGE="${IMAGE}@"$(crane digest "${IMAGE}")
 # Verify provenance, including the tag to prevent rollback attacks.
 slsa-verifier verify-image "$IMAGE" \
     --source-uri github.com/openfga/openfga \
-    --source-tag v1.3.5
+    --source-tag v1.3.6
 ```
 
 If you only want to verify up to the major or minor verion of the source repository tag (instead of the full tag), use the `--source-versioned-tag` which performs semantic versioning verification:
@@ -69,7 +69,7 @@ The attestation payload contains a non-forgeable provenance which is base64 enco
 ```bash
 slsa-verifier verify-image "$IMAGE" \
     --source-uri github.com/openfga/openfga \
-    --source-tag v1.3.5
+    --source-tag v1.3.6
     --print-provenance | jq
 ```
 
@@ -88,7 +88,7 @@ A single attestation (e.g. `openfga.intoto.jsonl`) from each release is provided
 slsa-verifier verify-artifact openfga_1.3.5_linux_amd64.tar.gz \
   --provenance-path openfga.intoto.jsonl \
   --source-uri github.com/openfga/openfga \
-  --source-tag v1.3.5
+  --source-tag v1.3.6
 ```
 
 If you only want to verify up to the major or minor verion of the source repository tag (instead of the full tag), use the `--source-versioned-tag` which performs semantic versioning verification:
@@ -106,7 +106,7 @@ The payload is a non-forgeable provenance which is base64 encoded and can be vie
 slsa-verifier verify-artifact openfga_1.3.5_linux_amd64.tar.gz \
   --provenance-path openfga.intoto.jsonl \
   --source-uri github.com/openfga/openfga \
-  --source-tag v1.3.5 \
+  --source-tag v1.3.6 \
   --print-provenance | jq
 ```
 
@@ -118,7 +118,7 @@ A single attestation (e.g. `openfga_1.3.5_linux_amd64-sbom.intoto.jsonl`) from e
 slsa-verifier verify-artifact openfga_1.3.5_linux_amd64.tar.gz.sbom \
   --provenance-path openfga.intoto.jsonl \
   --source-uri github.com/openfga/openfga \
-  --source-tag v1.3.5
+  --source-tag v1.3.6
 ```
 
 ***
