@@ -17,3 +17,4 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - [Fianu Labs](https://fianu.io/)
 - [ExcID](https://www.excid.io)
 - [Stacklok](https://stacklok.com/)
+- [Eiwa](https://eiwa.ag/)
