@@ -18,3 +18,4 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - [ExcID](https://www.excid.io)
 - [Stacklok](https://stacklok.com/)
 - [Eiwa](https://eiwa.ag/)
+- [Moss](https://getmoss.com/)
