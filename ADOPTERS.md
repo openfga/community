@@ -19,3 +19,9 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - [Stacklok](https://stacklok.com/)
 - [Eiwa](https://eiwa.ag/)
 - [Moss](https://getmoss.com/)
+
+## Articles describing OpenFGA adoption 
+
+- GoDaddy: [Fine-grained authorization with OpenFGA and OAuth](https://www.godaddy.com/engineering/2023/12/12/authorization-oauth-openfga/)
+- Configu: [Authorization Over Configurations using OpenFGA](https://configu.com/blog/authorization-over-configurations-using-openfga/)
+- ExcID: [Relation-based access control using Verifiable Credentials](https://medium.com/@excid/relation-based-access-control-using-verifiable-credentials-d8e542a0ce1)
