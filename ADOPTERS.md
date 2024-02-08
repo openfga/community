@@ -25,3 +25,7 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - GoDaddy: [Fine-grained authorization with OpenFGA and OAuth](https://www.godaddy.com/engineering/2023/12/12/authorization-oauth-openfga/)
 - Configu: [Authorization Over Configurations using OpenFGA](https://configu.com/blog/authorization-over-configurations-using-openfga/)
 - ExcID: [Relation-based access control using Verifiable Credentials](https://medium.com/@excid/relation-based-access-control-using-verifiable-credentials-d8e542a0ce1)
+- Stacklok Minder: [Using OpenFGA to build a relationship-based authorization model in Minder](https://stacklok.com/blog/using-openfga-to-build-a-relationship-based-authorization-model-in-minder)
+
+  
+  
