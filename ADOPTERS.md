@@ -19,6 +19,7 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - [Stacklok](https://stacklok.com/)
 - [Eiwa](https://eiwa.ag/)
 - [Moss](https://getmoss.com/)
+- [Agicap] (https://agicap.com/)
 
 ## Articles describing OpenFGA adoption 
 
