@@ -1,16 +1,16 @@
 Welcome to the OpenFGA Community and Feedback repository. This repository is home to the OpenFGA Discussions board.
 
 - To ask questions, request enhancements and provide feedback on the product, post in [Discussions](https://github.com/orgs/openfga/discussions).
-- To chat with our community use [Discord](https://discord.gg/8naAwJfWN6).
+- To reach out the OpenFGA community, join the [OpenFGA Community](https://openfga.dev/community) in the CNCF Slack or [in Github Discussions].(https://github.com/orgs/openfga/discussions).
 - To keep up to date with current news, follow OpenFGA on [Twitter](https://twitter.com/openfga) and subscribe to the [cncf-openfga-users](https://lists.cncf.io/g/cncf-openfga-users) mailing list.
 - To learn about OpenFGA, take a look at [our documentation](https://openfga.dev/docs).
-- To report issues in a repository, use the Github issues section in that repository
+- To report issues in a repository, use the Github issues section in that repository.
 - To contribute, check out the [contribution guidelines](https://github.com/openfga/.github/blob/main/CONTRIBUTING.md).
 - To learn more about what's coming, check out our [roadmap](https://github.com/orgs/openfga/projects/1).
 
 Tips for getting the most out of your discussions post:
 
-1. Include code examples! Even better if you can add a [Playground](https://play.fga.dev) link.
+1. Include code examples! Even better if you can add a [Playground](https://play.fga.dev) link or an [FGA test file](https://openfga.dev/docs/modeling/testing).
 2. Let us know what steps you've already tried.
 3. Link to any relevant GitHub issues or other discussions posts.
 
@@ -41,6 +41,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Benchmarking & Load Testing with k6](https://github.com/jon-whit/k6-openfga-test)
 - [IntelliJ Integration](https://github.com/le-yams/openfga4intellij)
 - [Implementing ReBAC for Kubernetes with OpenFGA](https://github.com/luxas/kube-rebac-authorizer)
+- [A Text based UI for managing FGA Tuples](https://github.com/paulosuzart/fgamanager)
 
 ## Deprecated Projects
 
