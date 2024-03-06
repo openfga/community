@@ -42,6 +42,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [IntelliJ Integration](https://github.com/le-yams/openfga4intellij)
 - [Implementing ReBAC for Kubernetes with OpenFGA](https://github.com/luxas/kube-rebac-authorizer)
 - [A Text based UI for managing FGA Tuples](https://github.com/paulosuzart/fgamanager)
+- [TestContainer OpenFGA module for Java](https://github.com/testcontainers/testcontainers-java/blob/main/docs/modules/openfga.md)
 
 ## Deprecated Projects
 
