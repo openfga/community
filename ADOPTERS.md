@@ -20,6 +20,7 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - [Eiwa](https://eiwa.ag/)
 - [Moss](https://getmoss.com/)
 - [Agicap](https://agicap.com/)
+- [Instill AI](https://www.instill.tech/)
 
 ## Articles describing OpenFGA adoption 
 
