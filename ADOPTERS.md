@@ -21,6 +21,7 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - [Moss](https://getmoss.com/)
 - [Agicap](https://agicap.com/)
 - [Instill AI](https://www.instill.tech/)
+- [Zuplo](https://zuplo.com)
 
 ## Articles describing OpenFGA adoption 
 
