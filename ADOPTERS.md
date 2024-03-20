@@ -23,6 +23,7 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - [Instill AI](https://www.instill.tech/)
 - [Zuplo](https://zuplo.com)
 - [OpenObserve](https://openobserve.ai/)
+- [Datum](https://datum.net/)
 
 ## Articles describing OpenFGA adoption 
 
