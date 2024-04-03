@@ -43,6 +43,8 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Implementing ReBAC for Kubernetes with OpenFGA](https://github.com/luxas/kube-rebac-authorizer)
 - [A Text based UI for managing FGA Tuples](https://github.com/paulosuzart/fgamanager)
 - [TestContainer OpenFGA module for Java](https://github.com/testcontainers/testcontainers-java/blob/main/docs/modules/openfga.md)
+- [TestContainer OpenFGA module for Go](https://github.com/testcontainers/testcontainers-go/blob/main/docs/modules/openfga.md)
+- [Tree-sitter grammar for OpenFGA modeling language](https://github.com/matoous/tree-sitter-fga)
 
 ## Deprecated Projects
 
