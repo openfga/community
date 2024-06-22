@@ -24,6 +24,7 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - [Zuplo](https://zuplo.com)
 - [OpenObserve](https://openobserve.ai/)
 - [Datum](https://datum.net/)
+- [Sourcegraph](https://sourcegraph.com/)
 
 ## Articles describing OpenFGA adoption 
 
