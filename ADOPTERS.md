@@ -26,6 +26,7 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - [Datum](https://datum.net/)
 - [Sourcegraph](https://sourcegraph.com/)
 - [Docker](https://docker.com/)
+- [Bump](https://www.bump-charge.com/)
 
 ## Articles describing OpenFGA adoption 
 
