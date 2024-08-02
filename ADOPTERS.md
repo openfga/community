@@ -1,8 +1,10 @@
 # Who's using OpenFGA
 
-### Adopters
+OpenFGA is used by a wide range of companies and projects, and implementation services are offered by several consulting firms.
 
-Below is a list of projects that have adopted OpenFGA. If you have been using OpenFGA and your name is not on this list, send us a PR!
+If you are using OpenFGA or providing services and your name is not on this list, please send us a PR!
+
+## Companies/Projects using OpenFGA in production
 
 - [Okta FGA](https://fga.dev/)
 - [Twintag](https://twintag.com)
@@ -28,12 +30,17 @@ Below is a list of projects that have adopted OpenFGA. If you have been using Op
 - [Docker](https://docker.com/)
 - [Bump](https://www.bump-charge.com/)
 
+
+## Companies offering OpenFGA implementation services
+
+| Company | Company description and services offered |
+|---------| ---------------------------------------- |
+| | | 
+
+
 ## Articles describing OpenFGA adoption 
 
 - GoDaddy: [Fine-grained authorization with OpenFGA and OAuth](https://www.godaddy.com/engineering/2023/12/12/authorization-oauth-openfga/)
 - Configu: [Authorization Over Configurations using OpenFGA](https://configu.com/blog/authorization-over-configurations-using-openfga/)
 - ExcID: [Relation-based access control using Verifiable Credentials](https://medium.com/@excid/relation-based-access-control-using-verifiable-credentials-d8e542a0ce1)
 - Stacklok Minder: [Using OpenFGA to build a relationship-based authorization model in Minder](https://stacklok.com/blog/using-openfga-to-build-a-relationship-based-authorization-model-in-minder)
-
-  
-  
