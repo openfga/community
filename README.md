@@ -48,7 +48,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Apache APISIX Plugin Authorization OpenFGA for FGA](https://github.com/embesozzi/apisix-authz-openfga)
 - [Zuplo OpenFGA Demo](https://github.com/zuplo-samples/openfga-demo)
 - [OpenFGA Webhook Authorizer for Kubernetes](https://github.com/jon-whit/openfga-authorizer)
-- Tuple editor
+- [OpenFGA Tuple Manager](https://github.com/paulosuzart/fgamanager)
 
 ### Operations
 
@@ -67,7 +67,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [OpenFGA CLI](https://github.com/ArcticGizmo/fga-cli) -> [OpenFGA CLI](https://github.com/openfga/cli)
 - [Unofficial OpenFGA CLI](https://github.com/rhamzeh/openfga-cli) -> [OpenFGA CLI](https://github.com/openfga/cli)
 - [OpenFGA Kotlin SDK](https://github.com/Ozee-io/fga-kotlin-sdk) -> [OpenFGA Java SDK](https://github.com/openfga/java-sdk)
-- [IntelliJ Integration](https://github.com/le-yams/openfga4intellij) -> 
+- [IntelliJ Integration](https://github.com/le-yams/openfga4intellij) -> [OpenFGA IntelliJ Plugin](https://github.com/openfga/intellij-plugin)
 
 ## Community Meetings
 
