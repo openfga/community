@@ -36,8 +36,7 @@ These companies offer services and assistance implementing solutions with OpenFG
 
 | Company | Company description and services offered | Contact |
 |---------| ---------------------------------------- | ------- |
-| [Mrikal](https://www.mrikal.com/) |                                          | admin@mrikal.com | 
-
+|   [Mrikal](https://www.mrikal.com)      |  Mrikal is a product studio and specializes in access control and permissions management solutions. We offer services including identity and access management (IAM), Fine-grained access control, custom software development, and consulting. Our focus is on enhancing security and simplifying management of digital resources for businesses     |  kalyan@mrikal.com [+91-8595270617](https://wa.me/918595270617)
 
 ## Articles describing OpenFGA adoption 
 
