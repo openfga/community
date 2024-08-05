@@ -36,7 +36,7 @@ These companies offer services and assistance implementing solutions with OpenFG
 
 | Company | Company description and services offered | Contact |
 |---------| ---------------------------------------- | ------- |
-|         |                                          |         | 
+| [Mrikal](https://www.mrikal.com/) |                                          | admin@mrikal.com | 
 
 
 ## Articles describing OpenFGA adoption 
