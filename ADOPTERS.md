@@ -30,15 +30,13 @@ If you are using OpenFGA or providing services and your name is not on this list
 - [Docker](https://docker.com/)
 - [Bump](https://www.bump-charge.com/)
 
-
 ## Companies offering OpenFGA implementation services
-These companies offer services and assistance implementing solutions with OpenFGA.  This list is provided as a resource for organizations seeking expert assistance in adopting OpenFGA solutions but listed companies have not been individually evaluated or endorsed by the OpenFGA project.  If your company provides OpenFGA implementation services, add your details by sending us a PR!
 
 | Company | Company description and services offered | Contact |
 |---------| ---------------------------------------- | ------- |
 |   [Mrikal](https://www.mrikal.com)      |  Mrikal is a product studio and specializes in access control and permissions management solutions. We offer services including identity and access management (IAM), Fine-grained access control, custom software development, and consulting. Our focus is on enhancing security and simplifying management of digital resources for businesses     |  kalyan@mrikal.com [+91-8595270617](https://wa.me/918595270617)
 
-## Articles describing OpenFGA adoption 
+## Articles describing OpenFGA adoption
 
 - GoDaddy: [Fine-grained authorization with OpenFGA and OAuth](https://www.godaddy.com/engineering/2023/12/12/authorization-oauth-openfga/)
 - Configu: [Authorization Over Configurations using OpenFGA](https://configu.com/blog/authorization-over-configurations-using-openfga/)
