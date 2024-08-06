@@ -34,9 +34,9 @@ If you are using OpenFGA or providing services and your name is not on this list
 
 These companies offer services and assistance implementing solutions with OpenFGA. This list is provided as a resource for organizations seeking expert assistance in adopting OpenFGA solutions but listed companies have not been individually evaluated or endorsed by the OpenFGA project. If your company provides OpenFGA implementation services, add your details by sending us a PR!
 
-| Company                            | Company description and services offered                                                                                                        | Contact |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------- |
-| [Kilterset](https://kilterset.com) | Experts in identity, we can assist in planning, crafting, testing, deploying, optimizing, and migrating complex app ecosystems to an FGA model. |         |
+| Company                            | Company description and services offered                                                                                                        | Contact                                       |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- |
+| [Kilterset](https://kilterset.com) | Experts in identity, we can assist in planning, crafting, testing, deploying, optimizing, and migrating complex app ecosystems to an FGA model. | [Contact form](https://kilterset.com/contact) |
 
 ## Articles describing OpenFGA adoption
 
