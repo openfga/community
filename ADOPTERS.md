@@ -29,6 +29,7 @@ If you are using OpenFGA or providing services and your name is not on this list
 - [Sourcegraph](https://sourcegraph.com/)
 - [Docker](https://docker.com/)
 - [Bump](https://www.bump-charge.com/)
+- [Patika Global Technology](https://patikaglobal.com/)
 
 ## Companies offering OpenFGA implementation services
 
