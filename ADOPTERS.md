@@ -10,7 +10,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 
 | Company / Project | Use Case |
 |-------------------|----------|
-| [Okta FGA](https://fga.dev/) | Okta FGA is a scalable authorization service for developers based on OpenFGA that allows implementing authorization for any kind of application and smoothly evolve as complexity increases over time |
+| [Okta FGA](https://fga.dev/) | Okta uses OpenFGA as the core engine for their Authorization as a Service product. It also uses OpenFGA to manage access to the Okta FGA Dashboard and Stores. |
 | [Twintag](https://twintag.com) |  |
 | [Mapped](https://www.mapped.com/) |  |
 | [Procure Ai](https://www.procure.ai/) |  |
