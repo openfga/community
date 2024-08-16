@@ -12,7 +12,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 |-------------------|----------|
 | [Okta FGA](https://fga.dev/) | Okta uses OpenFGA as the core engine for their Authorization as a Service product. |
 | [Twintag](https://twintag.com) |  |
-| [Mapped](https://www.mapped.com/) |  |
+| [Mapped](https://www.mapped.com/) | MAPPED uses OpenFGA to model our business entities, including organizations, users, service accounts, plans, features, permissions, and roles. OpenFGA serves as the authoritative source for our service-to-service OAuth services, such as client credentials flow and token exchange flows. Additionally, we leverage OpenFGA to manage IoT identity authorizations.  |
 | [Procure Ai](https://www.procure.ai/) |  |
 | [Canonical](https://ubuntu.com/) |  |
 | [Wolt](https://wolt.com/) |  |
