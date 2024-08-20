@@ -32,7 +32,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Datum](https://datum.net/) |  |
 | [Sourcegraph](https://sourcegraph.com/) |  |
 | [Docker](https://docker.com/) |  |
-| [Bump](https://www.bump-charge.com/) |  |
+| [Bump](https://www.bump-charge.com/) | Bump leverages OpenFGA to model car policies between companies and their employees, enabling the authorization of charging for company electric vehicles. |
 | [Patika Global Technology](https://patikaglobal.com/) |  |
 
 ## Companies offering OpenFGA implementation services
