@@ -30,7 +30,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Zuplo](https://zuplo.com) |  |
 | [OpenObserve](https://openobserve.ai/) |  |
 | [Datum](https://datum.net/) |  |
-| [Sourcegraph](https://sourcegraph.com/) |  |
+| [Sourcegraph](https://sourcegraph.com/) | Sourcegraph built [an internal-facing framework](https://sourcegraph.notion.site/MSP-IAM-framework-01f6e471a62245968453bfcb2cf052a3) aims to standardize how services think about and manage roles and permissions by offering a Zanzibar-style relationship-based access control (ReBAC) solution based on OpenFGA. |
 | [Docker](https://docker.com/) |  |
 | [Bump](https://www.bump-charge.com/) | Bump leverages OpenFGA to model car policies between companies and their employees, enabling the authorization of charging for company electric vehicles. |
 | [Patika Global Technology](https://patikaglobal.com/) |  |
