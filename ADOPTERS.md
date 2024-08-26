@@ -19,7 +19,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Italarchivi](https://www.italarchivi.it/) |  |
 | [Read AI](https://www.read.ai/) |  |
 | [Virtool](https://www.virtool.ca/) |  |
-| [Configu](https://configu.com/) |  |
+| [Configu](https://configu.com/) | Configu uses OpenFGA to provide organization administrators with advanced access control. By assigning roles and attributes to members, administrators ensure precise and secure access to configurations, tailored to each user’s specific responsibilities and needs. |
 | [Fianu Labs](https://fianu.io/) |  |
 | [ExcID](https://www.excid.io) |  |
 | [Stacklok](https://stacklok.com/) |  |
