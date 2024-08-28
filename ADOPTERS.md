@@ -29,7 +29,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Instill AI](https://www.instill.tech/) |  |
 | [Zuplo](https://zuplo.com) |  |
 | [OpenObserve](https://openobserve.ai/) |  |
-| [Datum](https://datum.net/) |  |
+| [OpenLane](https://github.com/theopenlane) | OpenLane is using OpenFGA to provide fine grained authorization in our SaaS product offering. We are also maintaining an OSS [wrapper](https://github.com/theopenlane/iam/tree/main/fgax) and an [ent](https://entgo.io/) integration for [generation](https://github.com/theopenlane/iam/tree/main/entfga) of policies within our codebase. |
 | [Sourcegraph](https://sourcegraph.com/) | Sourcegraph built [an internal-facing framework](https://sourcegraph.notion.site/MSP-IAM-framework-01f6e471a62245968453bfcb2cf052a3) aims to standardize how services think about and manage roles and permissions by offering a Zanzibar-style relationship-based access control (ReBAC) solution based on OpenFGA. |
 | [Docker](https://docker.com/) |  |
 | [Bump](https://www.bump-charge.com/) | Bump leverages OpenFGA to model car policies between companies and their employees, enabling the authorization of charging for company electric vehicles. |
