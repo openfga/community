@@ -55,6 +55,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Canonical OpenFGA Operator](https://github.com/canonical/openfga-operator) A [Juju Charm](https://charmhub.io/openfga-k8s) for deploying OpenFGA on Kubernetes.
 - [Terraform for AWS/Postgres](https://github.com/craigpastro/terraform-aws-openfga)
 - [Terraform Provider for OpenFGA](https://github.com/cysp/terraform-provider-openfga)
+- [Kubernetes Operator](https://github.com/3schwartz/fga-operator)
 
 ### Sample Applications
 
