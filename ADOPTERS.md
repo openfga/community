@@ -34,6 +34,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Docker](https://docker.com/) |  |
 | [Bump](https://www.bump-charge.com/) | Bump leverages OpenFGA to model car policies between companies and their employees, enabling the authorization of charging for company electric vehicles. |
 | [Patika Global Technology](https://patikaglobal.com/) |  |
+| [Gilion](https://www.gilion.com/) | Gilion leverages OpenFGA to handle a multi-tenancy setup that requires granular access management with hierarchies for different types |
 
 ## Companies offering OpenFGA implementation services
 
