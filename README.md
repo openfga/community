@@ -31,8 +31,8 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [OpenFGA Dart SDK](https://github.com/amondnet/openfga.dart)
 - [OpenFGA Rust SDK](https://github.com/repack-tech/openfga-rust-sdk)
 - [OpenFGA Ruby SDK](https://github.com/ryenski/openfga)
-- [Canonical OpenFGA Library](https://github.com/canonical/ofga) A wrapper library over the default OpenFGA client.
-- [Datum OpenFGA Library](https://github.com/datumforge/fgax)
+- [Canonical OpenFGA Library](https://github.com/canonical/ofga)
+- [Datum OpenFGA Extensions](https://github.com/datum-cloud/fgax)
 - [A middleware to secure routes in fiber](https://github.com/ZEISS/fiber-authz)
 - [Benchmarking & Load Testing with k6](https://github.com/jon-whit/k6-openfga-test)
 - [Tree Sitter grammar for OpenFGA](https://github.com/matoous/tree-sitter-fga)
@@ -56,6 +56,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Terraform for AWS/Postgres](https://github.com/craigpastro/terraform-aws-openfga)
 - [Terraform Provider for OpenFGA](https://github.com/cysp/terraform-provider-openfga)
 - [Kubernetes Operator](https://github.com/3schwartz/fga-operator)
+- [(Experimental) OpenFGA Terraform Provider](https://github.com/ZEISS/terraform-provider-openfga)
 
 ### Sample Applications
 
