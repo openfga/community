@@ -35,6 +35,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Bump](https://www.bump-charge.com/) | Bump leverages OpenFGA to model car policies between companies and their employees, enabling the authorization of charging for company electric vehicles. |
 | [Patika Global Technology](https://patikaglobal.com/) |  |
 | [Gilion](https://www.gilion.com/) | Gilion leverages OpenFGA to handle a multi-tenancy setup that requires granular access management with hierarchies for different types |
+| [flex](https://flex.team/) | flex leverages OpenFGA to implement a robust, centralized authorization system in our all-in-one HR SaaS Platform. This system delivers highly customizable Role-Based Access Control (RBAC), supporting hierarchical permission management across multiple levels - from organization and department level down to individual users and resources. This granular approach ensures precise access control while maintaining flexibility and scalability required for the entire platform. |
 
 ## Companies offering OpenFGA implementation services
 
