@@ -22,7 +22,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Configu](https://configu.com/) | Configu uses OpenFGA to provide organization administrators with advanced access control. By assigning roles and attributes to members, administrators ensure precise and secure access to configurations, tailored to each user’s specific responsibilities and needs. |
 | [Fianu Labs](https://fianu.io/) |  |
 | [ExcID](https://www.excid.io) |  |
-| [Stacklok](https://stacklok.com/) |  |
+| [Minder](https://mindersec.github.io/) | [Minder](https://github.com/mindersec/minder/) uses OpenFGA to store hierarchical user->project permissions.  This is also used by [Stacklok](https://stacklok.com/)'s cloud service to store user access. |
 | [Eiwa](https://eiwa.ag/) |  |
 | [Moss](https://getmoss.com/) |  |
 | [Agicap](https://agicap.com/) |  |
