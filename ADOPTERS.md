@@ -21,7 +21,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Virtool](https://www.virtool.ca/) | Virtool uses OpenFGA to store and access administrator privileges. Replacement of our hand-rolled access control solutions by OpenFGA is on our roadmap. |
 | [Configu](https://configu.com/) | Configu uses OpenFGA to provide organization administrators with advanced access control. By assigning roles and attributes to members, administrators ensure precise and secure access to configurations, tailored to each user’s specific responsibilities and needs. |
 | [Fianu Labs](https://fianu.io/) |  |
-| [ExcID](https://www.excid.io) |  |
+| [ExcID](https://www.excid.io) | ExcID is developing access control solutions for data sharing leveraging OpenFGA. Particularly, multiple instances of OpenFGA are used for storing the relationships among data sources, as well as among data consumers. At the time of access control decision, appropriate relationships are combined. This is achieved using technologies such as W3C Verifiable Credentials and OAuth 2.0 token exchange. ExcID has combined OpenFGA with open-source user management systems and Policy Enforcement Points (PEPs). |
 | [Minder](https://mindersec.github.io/) | [Minder](https://github.com/mindersec/minder/) uses OpenFGA to store hierarchical user->project permissions.  This is also used by [Stacklok](https://stacklok.com/)'s cloud service to store user access. |
 | [Eiwa](https://eiwa.ag/) |  |
 | [Moss](https://getmoss.com/) |  |
