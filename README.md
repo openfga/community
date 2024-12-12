@@ -31,6 +31,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [OpenFGA Dart SDK](https://github.com/amondnet/openfga.dart)
 - [OpenFGA Rust SDK](https://github.com/repack-tech/openfga-rust-sdk)
 - [OpenFGA Ruby SDK](https://github.com/ryenski/openfga)
+- [OpenFGA PHP SDK](https://github.com/evansims/openfga-php)
 - [Canonical OpenFGA Library](https://github.com/canonical/ofga)
 - [Datum OpenFGA Extensions](https://github.com/datum-cloud/fgax)
 - [A middleware to secure routes in fiber](https://github.com/ZEISS/fiber-authz)
