@@ -36,6 +36,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Patika Global Technology](https://patikaglobal.com/) |  |
 | [Gilion](https://www.gilion.com/) | Gilion leverages OpenFGA to handle a multi-tenancy setup that requires granular access management with hierarchies for different types |
 | [flex](https://flex.team/) | flex leverages OpenFGA to implement a robust, centralized authorization system in our all-in-one HR SaaS Platform. This system delivers highly customizable Role-Based Access Control (RBAC), supporting hierarchical permission management across multiple levels - from organization and department level down to individual users and resources. This granular approach ensures precise access control while maintaining flexibility and scalability required for the entire platform. |
+| [Lakekeeper](https://github.com/lakekeeper/lakekeeper) | Lakekeeper is an Apache-License Iceberg REST Catalog written in Rust that manages access to all your Iceberg tables in the heart of your Data & Analytics platform. Learn more about how we automate OpenFGA Store & Model management with Rust on [GitHub](https://github.com/lakekeeper/lakekeeper) and make sure to leave us a star!  |
 
 ## Companies offering OpenFGA implementation services
 
