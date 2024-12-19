@@ -46,11 +46,16 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Keycloak OpenFGA Custom Event Listener for integrating with OpenFGA via Kafka](https://github.com/embesozzi/keycloak-openfga-event-kafka)
 - [OpenFGA SCIM Bridge](https://github.com/SUSE-Skyscraper/openfga-scim-bridge)
 - [Implementing ReBAC for Kubernetes with OpenFGA](https://github.com/luxas/kube-rebac-authorizer)
-- [Apache APISIX Plugin Authorization OpenFGA for FGA](https://github.com/embesozzi/apisix-authz-openfga)
-- [Zuplo OpenFGA Demo](https://github.com/zuplo-samples/openfga-demo)
 - [OpenFGA Webhook Authorizer for Kubernetes](https://github.com/jon-whit/openfga-authorizer)
 - [OpenFGA Tuple Manager](https://github.com/paulosuzart/fgamanager)
 
+### API Gateways
+
+- [Apache APISIX](https://github.com/embesozzi/apisix-authz-openfga)
+- [Zuplo](https://github.com/zuplo-samples/openfga-demo)
+- [Envoy](https://github.com/openfga/openfga-envoy)
+- [Kong](https://github.com/dol/kong-authz-openfga)
+  
 ### Operations
 
 - [Canonical OpenFGA Operator](https://github.com/canonical/openfga-operator) A [Juju Charm](https://charmhub.io/openfga-k8s) for deploying OpenFGA on Kubernetes.
