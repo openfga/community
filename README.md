@@ -33,7 +33,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [OpenFGA Ruby SDK](https://github.com/ryenski/openfga)
 - [OpenFGA PHP SDK](https://github.com/evansims/openfga-php)
 - [Canonical OpenFGA Library](https://github.com/canonical/ofga)
-- [Datum OpenFGA Extensions](https://github.com/datum-cloud/fgax)
+- [Openlane OpenFGA Extensions](https://github.com/theopenlane/iam/tree/main/fgax)
 - [A middleware to secure routes in fiber](https://github.com/ZEISS/fiber-authz)
 - [Benchmarking & Load Testing with k6](https://github.com/jon-whit/k6-openfga-test)
 - [Tree Sitter grammar for OpenFGA](https://github.com/matoous/tree-sitter-fga)
