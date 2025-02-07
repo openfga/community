@@ -1,23 +1,28 @@
-Adrian Tam <adrian.tam@okta.com> (@adriantam)
-Andres Aguiar <andres.aguiar@okta.com (@aaguiarz)
-Evan Sims <evan.sims@okta.com> (@evansims)
-Ewan Harris <ewan.harris@okta.com> (@ewanharris)
-Jakub Hertyk <jakub.hertyk@okta.com> (@curfew-marathon)
-Jim Anderson <jim.anderson@okta.com> (@jimmyjames)
-Jose Padilla <jose.padilla@okta.com> (@jpadilla)
-Joshua Jones <tyler.nix@okta.com> (@senojj)
-Maria Ines Parnisari <maria.inesparnisari@okta.com> (@miparnisari)
-Matthew Pereira <matthew.pereira@okta.com> (@matthewpereira)
-Patrick Dillon <patrick.dillon@okta.com> (@pdillon)
-Poovamraj Thanganadar Thiagarajan <poovamraj.thanganadarthiagarajan@okta.com> (@poovamraj)
-Raghd Hamzeh <raghd.hamzeh@okta.com> (@rhamzeh)
-Sergiu Githea <sergiu.githea@okta.com> (@sergiught)
-Steve Hobbs <steve.hobbs@okta.com> (@stevehobbsdev)
-Tyler Nix <tyler.nix@okta.com> (@tylernix)
-Talent Zeng <talent.zeng@okta.com> (@ttrzeng)
-Victoria Johns <victoria.johns@okta.com> (@vic-dev)
-Will Vedder <will.vedder@okta.com> (@willvedd)
-Yamil Asusta <yamil.asusta@okta.com> (@elbuo8)
-Zilvinas Vilutis <zilvinas.vilutis@okta.com> (@cikasfm) 
-Justin Cohen <justin.cohen@okta.com> (@justincoh) 
-Dan Cech <dcech@grafana.com> (@DanCech)
+The current Maintainers Group for the OpenFGA Project consists of:
+
+| Name                             | Email                                      | Github           | Organization |	Repositories/Areas of Expertise | Added/Renewed On |
+| ---------------------------------|--------------------------------------------|------------------|--------------|---------------------------------|------------|
+| Adrian Tam                       | <adrian.tam@okta.com>                      | @adriantam       | Okta         | openfga                         | 2025-07-02 |  
+| Dan Cech                         | <dcech@grafana.com>                        | @DanCech         | Grafana Labs | openfga                         | 2025-07-02 | 
+| Jose Padilla                     | <jose.padilla@okta.com>                    | @jpadilla        | Okta         | openfga                         | 2025-07-02 |  
+| Joshua Jones                     | <joshua.jones@okta.com>                    | @senojj          | Okta         | openfga                         | 2025-07-02 |   
+| Justin Cohen                     | <justin.cohen@okta.com>                    | @justincoh       | Okta         | openfga                         | 2025-07-02 |  
+| Poovamraj Thanganadar Thiagarajan| <poovamraj.thanganadarthiagarajan@okta.com>| @poovamraj       | Okta         | openfga                         | 2025-07-02 |  
+| Victoria Johns                   | <victoria.johns@okta.com>                  | @vic-dev         | Okta         | openfga                         | 2025-07-02 |  
+| Will Vedder                      | <will.vedder@okta.com>                     | @willvedd        | Okta         | openfga                         | 2025-07-02 |  
+| Yamil Asusta                     | <yamil.asusta@okta.com>                    | @elbuo8          | Okta         | openfga                         | 2025-07-02 |  
+| Yissel Garna                     | <yissel.garma@okta.com>                    | @yissellokta     | Okta         | openfga                         | 2025-07-02 |  
+| Zilvinas Vilutis                 | <zilvinas.vilutis@okta.com>                | @cikasfm         | Okta         | openfga                         | 2025-07-02 |  
+| Evan Sims                        | <evan.sims@okta.com>                       | @evansims        | Okta         | sdks                            | 2025-07-02 |  
+| Ewan Harris                      | <ewan.harris@okta.com>                     | @ewanharris      | Okta         | openfga, cli, sdks              | 2025-07-02 |  
+| Jim Anderson                     | <jim.anderson@okta.com>                    | @jimmyjames      | Okta         | sdks                            | 2025-07-02 |  
+| Sergiu Githea                    | <sergiu.githea@okta.com>                   | @sergiught       | Okta         | cli                             | 2025-07-02 |  
+| Steve Hobbs                      | <steve.hobbs@okta.com>                     | @stevehobbsdev   | Okta         | cli                             | 2025-07-02 | 
+| Raghd Hamzeh                     | <raghd.hamzeh@okta.com>                    | @rhamzeh         | Okta         | openfga, sdks, cli, community   | 2025-07-02 |  
+| Ryan Quinn                       | <ryan.quinn@okta.com>                      | @ryanpq          | Okta         | sdks                            | 2025-07-02 |
+| Andres Aguiar                    | <andres.aguiar@okta.com>                   | @aaguiarz        | Okta         | openfga.dev, community          | 2025-07-02 |  
+| Talent Zeng                      | <talent.zeng@okta.com>                     | @ttrzeng         | Okta         | openfga.dev                     | 2025-07-02 |  
+| Tyler Nix                        | <tyler.nix@okta.com>                       | @tylernix        | Okta         | openfga.dev                     | 2025-07-02 |  
+| Patrick Dillon                   | <patrick.dillon@okta.com>                  | @pdillon         | Okta         | openfga.dev                     | 2025-07-02 |   
+
+This list must be kept in sync with the [CNCF Project Maintainers list](https://github.com/cncf/foundation/blob/master/project-maintainers.csv).
