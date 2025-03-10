@@ -37,6 +37,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [A middleware to secure routes in fiber](https://github.com/ZEISS/fiber-authz)
 - [Benchmarking & Load Testing with k6](https://github.com/jon-whit/k6-openfga-test)
 - [Tree Sitter grammar for OpenFGA](https://github.com/matoous/tree-sitter-fga)
+- [OpenFGA Tuple Manager](https://github.com/paulosuzart/fgamanager)
 
 ### Integrations
 
@@ -47,7 +48,6 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [OpenFGA SCIM Bridge](https://github.com/SUSE-Skyscraper/openfga-scim-bridge)
 - [Implementing ReBAC for Kubernetes with OpenFGA](https://github.com/luxas/kube-rebac-authorizer)
 - [OpenFGA Webhook Authorizer for Kubernetes](https://github.com/jon-whit/openfga-authorizer)
-- [OpenFGA Tuple Manager](https://github.com/paulosuzart/fgamanager)
 
 ### API Gateways
 
@@ -64,6 +64,11 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Kubernetes Operator](https://github.com/3schwartz/fga-operator)
 - [(Experimental) OpenFGA Terraform Provider](https://github.com/ZEISS/terraform-provider-openfga)
 - [OpenFGA Terraform Provider](https://github.com/mauriceackel/terraform-provider-openfga/)
+
+### Container Images
+
+- [OpenFGA Rock - OCI image based on Ubuntu built using rockcraft.](https://github.com/canonical/openfga-rock)
+- [ChainGuard image](https://images.chainguard.dev/directory/image/openfga/)
 
 ### Sample Applications
 
