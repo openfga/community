@@ -40,6 +40,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Skyral](https://www.skyral.com/) | Skyral is a British software company that builds advanced modelling and simulation technology for enterprise, defence, and national security customers worldwide. We are using OpenFGA to build fine-grained authorization into our product to provide flexible access controls wherever it is deployed. |
 | [Apache Syncope](https://syncope.apache.org/) | Apache Syncope is an Open Source system for managing digital identities in enterprise environments, implemented in Jakarta EE technology. Syncope is a full-fledged IAM system covering provisioning, reconciliation and reporting needs, access management and API management. OpenFGA can be optionally enabled to allow for authorization checks.|
 | [AppsCode](https://appscode.com) | AppsCode uses OpenFGA to implement authorization functionality for their AppsCode Container Engine(ACE) Platform.|
+| [Grafana Labs](https://grafana.com/) | Grafana user authorization and Role Based Access Control (RBAC) are migrating to OpenFGA. Check out our [growing implementation](https://github.com/grafana/grafana/tree/main/pkg/services/authz/zanzana) and our [authnz client and utilities](https://github.com/grafana/authlib). We've contributed the SQLite storage implementation to OpenFGA. |
 
 ## Companies offering OpenFGA implementation services
 
