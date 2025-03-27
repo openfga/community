@@ -24,5 +24,6 @@ The current Maintainers Group for the OpenFGA Project consists of:
 | Talent Zeng                      | <talent.zeng@okta.com>                     | @ttrzeng         | Okta         | openfga.dev                     | 2025-02-07 |  
 | Tyler Nix                        | <tyler.nix@okta.com>                       | @tylernix        | Okta         | openfga.dev                     | 2025-02-07 |  
 | Patrick Dillon                   | <patrick.dillon@okta.com>                  | @pdillon         | Okta         | openfga.dev                     | 2025-02-07 |   
+| Siddhant Khare                   | <siddhantkhare2694@gmail.com>              | @Siddhant-K-code | Independent  | cli, sdks                       | 2025-03-27 |   
 
 This list must be kept in sync with the [CNCF Project Maintainers list](https://github.com/cncf/foundation/blob/main/project-maintainers.csv).
