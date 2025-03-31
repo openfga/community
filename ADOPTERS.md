@@ -42,6 +42,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [AppsCode](https://appscode.com) | AppsCode uses OpenFGA to implement authorization functionality for their AppsCode Container Engine(ACE) Platform.|
 | [Grafana Labs](https://grafana.com/) | Grafana user authorization and Role Based Access Control (RBAC) are migrating to OpenFGA. Check out our [growing implementation](https://github.com/grafana/grafana/tree/main/pkg/services/authz/zanzana) and our [authnz client and utilities](https://github.com/grafana/authlib). We've contributed the SQLite storage implementation to OpenFGA. |
 | [EarthScope Consortium](https://www.earthscope.org/) | EarthScope Consortium supports transformative global geophysical research and education. We leverage OpenFGA to authorize researcher access to hundreds of thousands of data streams from geophysical sensors located all over the world. |
+| [Incus](https://linuxcontainers.org/incus/) | The Incus project uses OpenFGA as its primary authorization mechanism for fine grained access control to all its resources. |
 
 ## Companies offering OpenFGA implementation services
 
