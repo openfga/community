@@ -10,7 +10,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 
 | Company / Project | Use Case |
 |-------------------|----------|
-| [Auth0 FGA](https://fga.dev/) | Okta uses OpenFGA as the core engine for their Authorization as a Service product. |
+| [Auth0 FGA](https://fga.dev/) | Okta uses OpenFGA as the core engine for their Authorization as a Service product, Auth0 FGA. |
 | [Twintag](https://twintag.com) |  |
 | [Mapped](https://www.mapped.com/) | MAPPED uses OpenFGA to model our business entities, including organizations, users, service accounts, plans, features, permissions, and roles. OpenFGA serves as the authoritative source for our service-to-service OAuth services, such as client credentials flow and token exchange flows. Additionally, we leverage OpenFGA to manage IoT identity authorizations.  |
 | [Procure Ai](https://www.procure.ai/) | ProcureAi uses OpenFGA for user - > roles -> feature permission assignments, as well as fine grained data access permission to check what users can see within our procuretech solution. |
@@ -38,6 +38,11 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [flex](https://flex.team/) | flex leverages OpenFGA to implement a robust, centralized authorization system in our all-in-one HR SaaS Platform. This system delivers highly customizable Role-Based Access Control (RBAC), supporting hierarchical permission management across multiple levels - from organization and department level down to individual users and resources. This granular approach ensures precise access control while maintaining flexibility and scalability required for the entire platform. |
 | [Lakekeeper](https://github.com/lakekeeper/lakekeeper) | Lakekeeper is an Apache-License Iceberg REST Catalog written in Rust that manages access to all your Iceberg tables in the heart of your Data & Analytics platform. Learn more about how we automate OpenFGA Store & Model management with Rust on [GitHub](https://github.com/lakekeeper/lakekeeper) and make sure to leave us a star!  |
 | [Skyral](https://www.skyral.com/) | Skyral is a British software company that builds advanced modelling and simulation technology for enterprise, defence, and national security customers worldwide. We are using OpenFGA to build fine-grained authorization into our product to provide flexible access controls wherever it is deployed. |
+| [Apache Syncope](https://syncope.apache.org/) | Apache Syncope is an Open Source system for managing digital identities in enterprise environments, implemented in Jakarta EE technology. Syncope is a full-fledged IAM system covering provisioning, reconciliation and reporting needs, access management and API management. OpenFGA can be optionally enabled to allow for authorization checks.|
+| [AppsCode](https://appscode.com) | AppsCode uses OpenFGA to implement authorization functionality for their AppsCode Container Engine(ACE) Platform.|
+| [Grafana Labs](https://grafana.com/) | Grafana user authorization and Role Based Access Control (RBAC) are migrating to OpenFGA. Check out our [growing implementation](https://github.com/grafana/grafana/tree/main/pkg/services/authz/zanzana) and our [authnz client and utilities](https://github.com/grafana/authlib). We've contributed the SQLite storage implementation to OpenFGA. |
+| [EarthScope Consortium](https://www.earthscope.org/) | EarthScope Consortium supports transformative global geophysical research and education. We leverage OpenFGA to authorize researcher access to hundreds of thousands of data streams from geophysical sensors located all over the world. |
+| [Incus](https://linuxcontainers.org/incus/) | The Incus project uses OpenFGA as its primary authorization mechanism for fine grained access control to all its resources. |
 
 ## Companies offering OpenFGA implementation services
 
