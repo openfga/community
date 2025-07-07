@@ -31,6 +31,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [OpenFGA Dart SDK](https://github.com/amondnet/openfga.dart)
 - [OpenFGA Rust SDK](https://github.com/repack-tech/openfga-rust-sdk)
 - [OpenFGA Ruby SDK](https://github.com/ryenski/openfga)
+- [OpenFGA Laravel SDK](https://github.com/evansims/openfga-laravel)
 - [OpenFGA PHP SDK](https://github.com/evansims/openfga-php)
 - [Canonical OpenFGA Library](https://github.com/canonical/ofga)
 - [Openlane OpenFGA Extensions](https://github.com/theopenlane/iam/tree/main/fgax)
@@ -38,6 +39,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Benchmarking & Load Testing with k6](https://github.com/jon-whit/k6-openfga-test)
 - [Tree Sitter grammar for OpenFGA](https://github.com/matoous/tree-sitter-fga)
 - [OpenFGA Tuple Manager](https://github.com/paulosuzart/fgamanager)
+- [OpenFGA MCP (Model Contet Protocol) Server](https://github.com/evansims/openfga-mcp)
 
 ### Integrations
 
