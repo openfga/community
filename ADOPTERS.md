@@ -43,6 +43,8 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Grafana Labs](https://grafana.com/) | Grafana user authorization and Role Based Access Control (RBAC) are migrating to OpenFGA. Check out our [growing implementation](https://github.com/grafana/grafana/tree/main/pkg/services/authz/zanzana) and our [authnz client and utilities](https://github.com/grafana/authlib). We've contributed the SQLite storage implementation to OpenFGA. |
 | [EarthScope Consortium](https://www.earthscope.org/) | EarthScope Consortium supports transformative global geophysical research and education. We leverage OpenFGA to authorize researcher access to hundreds of thousands of data streams from geophysical sensors located all over the world. |
 | [Incus](https://linuxcontainers.org/incus/) | The Incus project uses OpenFGA as its primary authorization mechanism for fine grained access control to all its resources. |
+| [virv.ai](https://virv.ai) | virv.ai uses OpenFGA as the core authorisation model that enables individuals, agents and organisations to access artefacts such as data, credentials, and documents. OpenFGA allows us to meet the needs the AI-enabled Enterprise where trust is essential. |
+| [X-HR LABS](https://x-hr.co) | X-HR is a modern HR tech platform that empowers businesses with full freedom to use and grow on their own terms. We leverage OpenFGA to implement robust, relationship-based access control across company data and organizational structures. |
 
 ## Companies offering OpenFGA implementation services
 
