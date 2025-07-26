@@ -19,10 +19,18 @@ repository:
     email: andres.aguiar@okta.com
     social: https://github.com/aaguiarz
     primary: true
+  - name: Daniel Yeam
+    affiliation: Okta
+    email: daniel.yeam@okta.com
+    social: https://github.com/dyeam0
   - name: Raghd Hamzeh
     affiliation: Okta
     email: raghd.hamzeh@okta.com
     social: https://github.com/rhamzeh
+  - name: Tyler Nix
+    affiliation: Okta
+    email: tyler.nix@okta.com
+    social: https://github.com/tylernix
 
   license:
     url: https://raw.githubusercontent.com/openfga/community/main/LICENSE
