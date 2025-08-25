@@ -40,6 +40,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Tree Sitter grammar for OpenFGA](https://github.com/matoous/tree-sitter-fga)
 - [OpenFGA Tuple Manager](https://github.com/paulosuzart/fgamanager)
 - [OpenFGA MCP (Model Context Protocol) Server](https://github.com/evansims/openfga-mcp)
+- [Tuna - Tuple Generator for OpenFGA](https://github.com/aberforth4/tuna)
 
 ### Integrations
 
