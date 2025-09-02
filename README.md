@@ -37,7 +37,6 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Openlane OpenFGA Extensions](https://github.com/theopenlane/iam/tree/main/fgax)
 - [A middleware to secure routes in fiber](https://github.com/ZEISS/fiber-authz)
 - [Benchmarking & Load Testing with k6](https://github.com/jon-whit/k6-openfga-test)
-- [Tree Sitter grammar for OpenFGA](https://github.com/matoous/tree-sitter-fga)
 - [OpenFGA Tuple Manager](https://github.com/paulosuzart/fgamanager)
 - [OpenFGA MCP (Model Context Protocol) Server](https://github.com/evansims/openfga-mcp)
 
@@ -50,6 +49,10 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [OpenFGA SCIM Bridge](https://github.com/SUSE-Skyscraper/openfga-scim-bridge)
 - [Implementing ReBAC for Kubernetes with OpenFGA](https://github.com/luxas/kube-rebac-authorizer)
 - [OpenFGA Webhook Authorizer for Kubernetes](https://github.com/jon-whit/openfga-authorizer)
+
+### IDEs or Editors
+- [Tree Sitter grammar for OpenFGA](https://github.com/matoous/tree-sitter-fga)
+- [Neovim plugin for OpenFGA modeling language support](https://github.com/hedengran/fga.nvim)
 
 ### API Gateways
 
