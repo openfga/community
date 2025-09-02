@@ -39,6 +39,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Benchmarking & Load Testing with k6](https://github.com/jon-whit/k6-openfga-test)
 - [OpenFGA Tuple Manager](https://github.com/paulosuzart/fgamanager)
 - [OpenFGA MCP (Model Context Protocol) Server](https://github.com/evansims/openfga-mcp)
+- [Tuna - Tuple Generator for OpenFGA](https://github.com/aberforth4/tuna)
 
 ### Integrations
 
