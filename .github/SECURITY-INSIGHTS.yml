@@ -55,4 +55,13 @@ repository:
         comment: OpenFGA has completed a CNCF security joint assessment with CNCF TAG-Security
 
     tools:
-      []
+      - name: Socket
+        type: SCA
+        version: latest
+        rulesets:
+          - built-in
+        integration:
+          adhoc: false
+          ci: true
+          release: true
+        comment: Socket is enabled for this repo to scan for supply chain security vulnerabilities.
