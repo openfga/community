@@ -55,6 +55,7 @@ These companies offer services and assistance implementing solutions with OpenFG
 |---------| ---------------------------------------- | ------- |
 | [Kilterset](https://kilterset.com) | Experts in identity, we can assist in planning, crafting, testing, deploying, optimizing, and migrating complex app ecosystems to an FGA model. | [Contact form](https://kilterset.com/contact) |
 | [Mrikal](https://www.mrikal.com) | Mrikal is a product studio and specializes in access control and permissions management solutions. We offer services including identity and access management (IAM), Fine-grained access control, custom software development, and consulting. Our focus is on enhancing security and simplifying management of digital resources for businesses | kalyan@mrikal.com [+91-8595270617](https://wa.me/918595270617) |
+| [ravisvats](https://www.ravisvats.com) | Permission checks breaking as your product scales? Let's modernize your access control — replacing static roles and scattered policies with a unified, fine-grained authorization layer that scales with your business| ravisvats@gmail.com [+91-8875603044](https://wa.me/918875603044) |
 
 ## Articles describing OpenFGA adoption
 
