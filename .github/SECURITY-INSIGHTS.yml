@@ -1,9 +1,10 @@
 # Security Insights 2.0 file https://github.com/ossf/security-insights 
 # Specification: https://github.com/ossf/security-insights/tree/main/spec
+
 header:
   schema-version: 2.0.0
-  last-updated: '2025-07-26'
-  last-reviewed: '2025-07-26'
+  last-updated: '2025-09-18'
+  last-reviewed: '2025-09-18'
   url: https://github.com/openfga/community
   project-si-source: https://raw.githubusercontent.com/openfga/.github/main/SECURITY-INSIGHTS.yml
   comment: The community repository is the place to go for OpenFGA support.
@@ -16,27 +17,27 @@ repository:
   accepts-automated-change-request: true
   no-third-party-packages: true
   core-team:
-    - name: Andres Aguiar
-      affiliation: Okta
-      email: andres.aguiar@okta.com
-      social: https://github.com/aaguiarz
-      primary: true
-    - name: Daniel Yeam
-      affiliation: Okta
-      email: daniel.yeam@okta.com
-      social: https://github.com/dyeam0
-    - name: Raghd Hamzeh
-      affiliation: Okta
-      email: raghd.hamzeh@okta.com
-      social: https://github.com/rhamzeh
-    - name: Rishav Mishra
-      affiliation: Okta
-      email: rishav.mishra@okta.com
-      social: https://github.com/rishavmishra-okta
-    - name: Tyler Nix
-      affiliation: Okta
-      email: tyler.nix@okta.com
-      social: https://github.com/tylernix
+  - name: Andres Aguiar
+    affiliation: Okta
+    email: andres.aguiar@okta.com
+    social: https://github.com/aaguiarz
+    primary: true
+  - name: Daniel Yeam
+    affiliation: Okta
+    email: daniel.yeam@okta.com
+    social: https://github.com/dyeam0
+  - name: Raghd Hamzeh
+    affiliation: Okta
+    email: raghd.hamzeh@okta.com
+    social: https://github.com/rhamzeh
+  - name: Rishav Mishra
+    affiliation: Okta
+    email: rishav.mishra@okta.com
+    social: https://github.com/rishavmishra-okta
+  - name: Tyler Nix
+    affiliation: Okta
+    email: tyler.nix@okta.com
+    social: https://github.com/tylernix
 
   license:
     url: https://raw.githubusercontent.com/openfga/community/main/LICENSE
@@ -57,4 +58,13 @@ repository:
         comment: OpenFGA has completed a CNCF security joint assessment with CNCF TAG-Security
 
     tools:
-      []
+      - name: Socket
+        type: SCA
+        version: latest
+        rulesets:
+          - built-in
+        integration:
+          adhoc: false
+          ci: true
+          release: true
+        comment: Socket is enabled for this repo to scan for supply chain security vulnerabilities.
