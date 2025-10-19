@@ -38,8 +38,14 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [A middleware to secure routes in fiber](https://github.com/ZEISS/fiber-authz)
 - [Benchmarking & Load Testing with k6](https://github.com/jon-whit/k6-openfga-test)
 - [OpenFGA Tuple Manager](https://github.com/paulosuzart/fgamanager)
-- [OpenFGA MCP (Model Context Protocol) Server](https://github.com/evansims/openfga-mcp)
 - [Tuna - Tuple Generator for OpenFGA](https://github.com/aberforth4/tuna)
+
+### MCPs that help with OpenFGA implementation
+
+- [OpenFGA MCP Local Server](https://github.com/evansims/openfga-mcp)
+- [OpenFGA MCP Remote Server](https://github.com/aaguiarz/openfga-modeling-mcp)
+- [DeepWiki](https://docs.devin.ai/work-with-devin/deepwiki-mcp)
+- [Context7](https://github.com/upstash/context7))
 
 ### Integrations
 
@@ -55,12 +61,13 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Tree Sitter grammar for OpenFGA](https://github.com/matoous/tree-sitter-fga)
 - [Neovim plugin for OpenFGA modeling language support](https://github.com/hedengran/fga.nvim)
 
-### API Gateways
+### API Gateways / Proxies
 
 - [Apache APISIX](https://github.com/embesozzi/apisix-authz-openfga)
 - [Zuplo](https://github.com/zuplo-samples/openfga-demo)
 - [Envoy](https://github.com/openfga/openfga-envoy)
 - [Kong](https://github.com/dol/kong-authz-openfga)
+- [Heimdall](https://github.com/dadrus/heimdall/blob/main/docs/content/guides/authz/openfga.adoc)
   
 ### Operations
 
