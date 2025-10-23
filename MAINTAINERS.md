@@ -12,7 +12,7 @@ The current Maintainers Group for the OpenFGA Project consists of:
 | Will Vedder                      | <will.vedder@okta.com>                     | @willvedd        | Okta         | openfga                         | 2025-02-07 |  
 | Yamil Asusta                     | <yamil.asusta@okta.com>                    | @elbuo8          | Okta         | openfga                         | 2025-02-07 |  
 | Yissell Garma                    | <yissell.garma@okta.com>                   | @yissellokta     | Okta         | openfga                         | 2025-02-07 |  
-| Zilvinas Vilutis                 | <zilvinas.vilutis@okta.com>                | @cikasfm         | Okta         | openfga                         | 2025-02-07 |  
+| Jakub Hertyk                     | <jakub.hertyk@okta.com>                    | @curfew-marathon | Okta         | sdks, cli                       | 2025-02-07 |  
 | Evan Sims                        | <evan.sims@okta.com>                       | @evansims        | Okta         | sdks                            | 2025-02-07 |  
 | Ewan Harris                      | <ewan.harris@okta.com>                     | @ewanharris      | Okta         | openfga, cli, sdks              | 2025-02-07 |  
 | Jim Anderson                     | <jim.anderson@okta.com>                    | @jimmyjames      | Okta         | sdks                            | 2025-02-07 |  
