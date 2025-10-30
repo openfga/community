@@ -46,6 +46,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Incus](https://linuxcontainers.org/incus/) | The Incus project uses OpenFGA as its primary authorization mechanism for fine grained access control to all its resources. |
 | [virv.ai](https://virv.ai) | virv.ai uses OpenFGA as the core authorisation model that enables individuals, agents and organisations to access artefacts such as data, credentials, and documents. OpenFGA allows us to meet the needs the AI-enabled Enterprise where trust is essential. |
 | [X-HR LABS](https://x-hr.co) | X-HR is a modern HR tech platform that empowers businesses with full freedom to use and grow on their own terms. We leverage OpenFGA to implement robust, relationship-based access control across company data and organizational structures. |
+| [Platform Mesh](https://platform-mesh.io/) | Platform Mesh enables the discovery, access, ordering and choreographing of services from multiple providers through the Kubernetes API. |
 
 ## Companies offering OpenFGA implementation services
 
