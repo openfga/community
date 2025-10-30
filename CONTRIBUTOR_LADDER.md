@@ -51,7 +51,7 @@ Members are invited to join the OpenFGA GitHub organization by the Maintainers o
 
 ### Maintainer
 
-Maintainers are responsible for the overall health and technical direction of the OpenFGA project. They are experienced contributors who have demonstrated a deep understanding of the project and a commitment to its success. Maintainers are required to have a deep understanding of the project and are highly encouraged to be end-users to gain insight beyond their core competency.
+Maintainers are responsible for the overall long-term health, technical direction, and success of the OpenFGA project. They are experienced contributors who have demonstrated a deep understanding of the project and a commitment to its success. Maintainers are required to have a deep understanding of the project and are highly encouraged to be end-users to gain insight beyond their core competency.
 
 Maintainers can have different areas of responsibilities, such as:
 * Core Server
@@ -74,7 +74,7 @@ The maintainer onboarding is a gradual one. Initially, individuals may be given 
 **Requirements:**
 * Must be a community Member.
 * **Sustained Contributions:** A long-term history of significant and high-quality contributions.
-* **Technical Expertise:** A deep understanding of the OpenFGA architecture, codebase, and the broader authorization landscape. While some maintainers' expertise may be focused on a particular area while others are broader, all are expected to understand the project, the problem it is solving, how it is doing that and it's direction.
+* **Technical Expertise:** A deep understanding of the OpenFGA architecture, codebase, and the broader authorization landscape. While some maintainers' expertise may be focused on a particular area while others are broader, all are expected to understand the project, the problem it is solving, how it is doing that and its direction.
 * **Community Trust:** Demonstrated ability to work collaboratively and make decisions in the best interest of the project.
 
 **How to become a Maintainer:**
