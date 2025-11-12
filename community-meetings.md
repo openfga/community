@@ -1,6 +1,6 @@
 # OpenFGA Community Meetings
 
-We host a monthly community meeting the 2nd Thursday of every month, at [11am Eastern Time (US)](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,6,8&h=5&sln=11-12&hf=1) (3PM UTC/8AM PT currently). 
+We host a monthly community meeting the 2nd Thursday of every month, at [11am Eastern Time (US)](https://www.worldtimebuddy.com/?qm=1&lid=12,100,5,6,8&h=5&sln=11-12&hf=1) (4PM UTC/8AM PT currently). 
 
 You can view/subscribe to the community meetings in the [Linux Foundation OpenFGA Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/openfga).
 
