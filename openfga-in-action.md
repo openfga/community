@@ -2,7 +2,7 @@
 
 OpenFGA in action is a segment in the [OpenFGA community meeting](./community-meetings.md) where different companies or open source projects share why and how they implemented OpenFGA. 
 
-You can see all previous editions in this [Youtube playlist](https://www.youtube.com/watch?v=ZdlftEKQ0UA&list=PLUR5l-oTFZqVEUCHUwcBzkEs-1kioF813)
+You can see all previous editions in this [YouTube playlist](https://www.youtube.com/watch?v=ZdlftEKQ0UA&list=PLUR5l-oTFZqVEUCHUwcBzkEs-1kioF813).
 
 If you want to present, please add yourself to the list.
 
@@ -21,7 +21,6 @@ If you want to present, please add yourself to the list.
 | 2026-10-08  |                 |           |
 | 2026-11-12  |                 |           |
 | 2026-12-10  |                 |           |
-
 
 ### Past Presentations
 
