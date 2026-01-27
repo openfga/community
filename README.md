@@ -40,12 +40,17 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [OpenFGA Tuple Manager](https://github.com/paulosuzart/fgamanager)
 - [Tuna - Tuple Generator for OpenFGA](https://github.com/aberforth4/tuna)
 
-### MCPs that help with OpenFGA implementation
+### AI Tooling that helps with OpenFGA implementation
 
-- [OpenFGA MCP Local Server](https://github.com/evansims/openfga-mcp)
-- [OpenFGA MCP Remote Server](https://github.com/aaguiarz/openfga-modeling-mcp)
+- [OpenFGA Agent Skills](https://github.com/openfga/agent-skills)
 - [DeepWiki](https://docs.devin.ai/work-with-devin/deepwiki-mcp)
-- [Context7](https://github.com/upstash/context7))
+- [Context7](https://github.com/upstash/context7)
+
+### OpenFGA Management Applications
+
+- [OpenFGA Studio](https://github.com/prakashm88/openfga-studio)
+- [OpenFGA Admin Console](https://github.com/yehia2amer/OpenFGA-Admin-UI)
+- [OpenFGA Dashboard](https://github.com/dz1922/openfga-dashboard)
 
 ### Integrations
 
@@ -82,31 +87,30 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 
 - [OpenFGA Rock - OCI image based on Ubuntu built using rockcraft.](https://github.com/canonical/openfga-rock)
 - [ChainGuard image](https://images.chainguard.dev/directory/image/openfga/)
+- [Docker Hardened Image](https://hub.docker.com/hardened-images/catalog/dhi/openfga)
 
 ### Sample Applications
 
 - [Go Google Drive style API](https://github.com/Sambego/fga-demo-api)
 - [NextJS Google Drive style Demo](https://github.com/oktadev/fga-drive-example)
 - [Flask Demo](https://github.com/openfga/flask-demo)
+- [Fine-grained authorization for AI agents using OpenFGA](https://github.com/Siddhant-K-code/agentic-authz)
 
 ### Articles & Videos
   
 - [OpenFGA Live Modeling Guides](https://www.youtube.com/watch?v=5Lwy9aHXXHE&list=PLUR5l-oTFZqWaDdhEOVt_IfPOIbKo1Ypt)
-- [OpenFGA Community Presentations](https://www.youtube.com/playlist?list=PLUR5l-oTFZqUAdAibhLw7l5IdqDnQ5gga]
-- [OpenFGA Community Meetings](https://www.youtube.com/playlist?list=PLUR5l-oTFZqUneyHz-h4WzaJssgxBXdxB]
+- [OpenFGA Community Presentations](https://www.youtube.com/playlist?list=PLUR5l-oTFZqUAdAibhLw7l5IdqDnQ5gga)
+- [OpenFGA Community Meetings](https://www.youtube.com/playlist?list=PLUR5l-oTFZqUneyHz-h4WzaJssgxBXdxB)
 - [OpenFGA for Python Flask Applications](https://auth0.com/blog/fine-grained-access-control-with-python-flask/)
 - [How to Implement Relationship-Based Access Control (ReBAC) in a Ruby On Rails API?](https://auth0.com/blog/what-is-rebac-and-how-to-implement-rails-api/)
 - [Securing data in your Next.js app with Okta and OpenFGA](https://vercel.com/blog/securing-data-in-your-next-js-app-with-okta-and-openfga)
 - [OpenFGA for an Express + Typescript Node.js API](https://auth0.com/blog/express-typescript-fga/)
 - [OpenFGA for Spring Boot Applications](https://auth0.com/blog/add-fga-to-spring-boot-api-with-openfga/)
-
-## Deprecated Projects
-
-- [OpenFGA Helm Chart](https://github.com/AlexandreBrg/openfga-helm) -> [OpenFGA Helm Charts](https://github.com/openfga/helm-charts)
-- [OpenFGA CLI](https://github.com/ArcticGizmo/fga-cli) -> [OpenFGA CLI](https://github.com/openfga/cli)
-- [Unofficial OpenFGA CLI](https://github.com/rhamzeh/openfga-cli) -> [OpenFGA CLI](https://github.com/openfga/cli)
-- [OpenFGA Kotlin SDK](https://github.com/Ozee-io/fga-kotlin-sdk) -> [OpenFGA Java SDK](https://github.com/openfga/java-sdk)
-- [IntelliJ Integration](https://github.com/le-yams/openfga4intellij) -> [OpenFGA IntelliJ Plugin](https://github.com/openfga/intellij-plugin)
+- [Building a Secure RAG with Python, LangChain, and OpenFGA](https://auth0.com/blog/building-a-secure-rag-with-python-langchain-and-openfga/)
+- [Understanding ReBAC and ABAC Through OpenFGA and Cedar](https://auth0.com/blog/rebac-abac-openfga-cedar/)
+- [Continuous Authorization Testing: FGA, GitHub Actions, and CI/CD](https://auth0.com/blog/continuous-authorization-testing-fga-github-ci-cd/)
+- [Using an API Gateway with Fine-Grained Authorization](https://auth0.com/blog/using-api-gateway-fine-grained-authorization/)
+- [Handling the Dual-Write Problem in Distributed Systems](https://auth0.com/blog/handling-the-dual-write-problem-in-distributed-systems/)
 
 ## Community Meetings
 
