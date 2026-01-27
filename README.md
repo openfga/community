@@ -1,18 +1,46 @@
-Welcome to the OpenFGA Community and Feedback repository. This repository is home to the OpenFGA Discussions board.
+# OpenFGA Community
+
+[![CNCF Status](https://img.shields.io/badge/CNCF-Sandbox-blue)](https://www.cncf.io/projects/openfga/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://github.com/openfga/openfga/blob/main/LICENSE)
+
+[OpenFGA](https://openfga.dev) is a high-performance, flexible authorization system based on Google's Zanzibar paper. It enables developers to implement fine-grained access control using a simple, expressive modeling language.
+
+This repository is home to the OpenFGA Discussions board and community resources.
+
+## Quick Links
+
+| Resource | Description |
+|----------|-------------|
+| [Documentation](https://openfga.dev/docs) | Learn about OpenFGA concepts and usage |
+| [Playground](https://play.fga.dev) | Try OpenFGA models in your browser |
+| [Official SDKs](https://openfga.dev/docs/getting-started/install-sdk) | SDKs for JS, Go, .NET, Python, Java |
+| [Discord](https://discord.gg/8naAwJfWN6) | Chat with the community |
+| [Roadmap](https://github.com/orgs/openfga/projects/1) | See what's coming next |
+
+## Table of Contents
+
+- [Getting Involved](#getting-involved)
+- [Governance](#governance)
+- [Brand Assets](#brand-assets)
+- [Community Projects](#community-projects)
+  - [SDKs, Libraries and Tools](#sdks-libraries-and-tools)
+  - [AI Tooling](#ai-tooling-that-helps-with-openfga-implementation)
+  - [Management Applications](#openfga-management-applications)
+  - [Integrations](#integrations)
+  - [IDEs and Editors](#ides-or-editors)
+  - [API Gateways / Proxies](#api-gateways--proxies)
+  - [Operations](#operations)
+  - [Container Images](#container-images)
+  - [Sample Applications](#sample-applications)
+  - [Articles & Videos](#articles--videos)
+- [Community Meetings](#community-meetings)
+
+## Getting Involved
 
 - To engage with the OpenFGA Community check the [community channels](https://openfga.dev/docs/community)
-- To learn about OpenFGA, take a look at [our documentation](https://openfga.dev/docs).
-- To report issues in a repository, use the Github issues section in that repository
-- To contribute, check out the [contribution guidelines](https://github.com/openfga/.github/blob/main/CONTRIBUTING.md).
-- To learn more about what's coming, check out our [roadmap](https://github.com/orgs/openfga/projects/1).
+- To report issues in a repository, use the GitHub Issues section in that repository
+- To contribute, check out the [contribution guidelines](https://github.com/openfga/.github/blob/main/CONTRIBUTING.md)
 
-Tips for getting the most out of your discussions post:
-
-1. Include code examples! Even better if you can add a [Playground](https://play.fga.dev) link.
-2. Let us know what steps you've already tried.
-3. Link to any relevant GitHub issues or other discussions posts.
-
-## Governance
 
 Learn about the OpenFGA project's Governance model by reviewing [this GOVERNANCE.md file](https://github.com/openfga/.github/blob/main/GOVERNANCE.md).
 
@@ -22,23 +50,28 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 
 ## Community Projects
 
+> **Note**: The projects listed below are community-maintained. For official SDKs and tools, see the [Official SDKs](https://openfga.dev/docs/getting-started/install-sdk) documentation.
+
 ### SDKs, Libraries and Tools
 
-- [OpenFGA ASP.NET Core + Worker Services SDK](https://github.com/Hawxy/Fga.Net)
-- [Official Quarkus extension for OpenFGA support](https://github.com/quarkiverse/quarkus-openfga-client)
-- [Official Quarkus Zanzibar support](https://github.com/quarkiverse/quarkus-zanzibar)
-- [OpenFGA Elixir SDK](https://github.com/msutkowski/fga-elixir-sdk)
-- [OpenFGA Dart SDK](https://github.com/amondnet/openfga.dart)
-- [OpenFGA Rust SDK](https://github.com/repack-tech/openfga-rust-sdk)
-- [OpenFGA Ruby SDK](https://github.com/ryenski/openfga)
-- [OpenFGA Laravel SDK](https://github.com/evansims/openfga-laravel)
-- [OpenFGA PHP SDK](https://github.com/evansims/openfga-php)
-- [Canonical OpenFGA Library](https://github.com/canonical/ofga)
-- [Openlane OpenFGA Extensions](https://github.com/theopenlane/iam/tree/main/fgax)
-- [A middleware to secure routes in fiber](https://github.com/ZEISS/fiber-authz)
-- [Benchmarking & Load Testing with k6](https://github.com/jon-whit/k6-openfga-test)
-- [OpenFGA Tuple Manager](https://github.com/paulosuzart/fgamanager)
-- [Tuna - Tuple Generator for OpenFGA](https://github.com/aberforth4/tuna)
+| Project | Language/Framework |
+|---------|-------------------|
+| [OpenFGA ASP.NET Core + Worker Services SDK](https://github.com/Hawxy/Fga.Net) | .NET |
+| [OpenFGA Dart SDK](https://github.com/amondnet/openfga.dart) | Dart |
+| [OpenFGA Elixir SDK](https://github.com/drewble/fga-elixir-sdk) | Elixir |
+| [OpenFGA PHP SDK](https://github.com/scor/openfga-php) | PHP |
+| [OpenFGA Ruby SDK](https://github.com/carlastabile/openfga-ruby-sdk) | Ruby |
+| [OpenFGA Rust SDK](https://github.com/openobserve/openfga-sdk) | Rust |
+| [Canonical OpenFGA Library](https://github.com/canonical/ofga) | Go |
+| [Openlane OpenFGA Extensions](https://github.com/theopenlane/iam/tree/main/fgax) | Go |
+| [A middleware to secure routes in Fiber](https://github.com/ZEISS/fiber-authz) | Go (Fiber) |
+| [Official Quarkus extension for OpenFGA](https://github.com/quarkiverse/quarkus-openfga-client) | Java (Quarkus) |
+| [Official Quarkus Zanzibar support](https://github.com/quarkiverse/quarkus-zanzibar) | Java (Quarkus) |
+| [Benchmarking & Load Testing with k6](https://github.com/jon-whit/k6-openfga-test) | Testing |
+| [OpenFGA Tuple Manager](https://github.com/paulosuzart/fgamanager) | Tool |
+| [Tuna - Tuple Generator for OpenFGA](https://github.com/aberforth4/tuna) | Tool |
+| [Postman Collection](https://github.com/guillempuche/postman_openfga) | Tool |
+
 
 ### AI Tooling that helps with OpenFGA implementation
 
@@ -63,29 +96,29 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [OpenFGA Webhook Authorizer for Kubernetes](https://github.com/jon-whit/openfga-authorizer)
 
 ### IDEs or Editors
+
 - [Tree Sitter grammar for OpenFGA](https://github.com/matoous/tree-sitter-fga)
 - [Neovim plugin for OpenFGA modeling language support](https://github.com/hedengran/fga.nvim)
 
 ### API Gateways / Proxies
 
 - [Apache APISIX](https://github.com/embesozzi/apisix-authz-openfga)
-- [Zuplo](https://github.com/zuplo-samples/openfga-demo)
 - [Envoy](https://github.com/openfga/openfga-envoy)
-- [Kong](https://github.com/dol/kong-authz-openfga)
 - [Heimdall](https://github.com/dadrus/heimdall/blob/main/docs/content/guides/authz/openfga.adoc)
-  
+- [Kong](https://github.com/dol/kong-authz-openfga)
+- [Zuplo](https://github.com/zuplo-samples/openfga-demo)
+
 ### Operations
 
-- [Canonical OpenFGA Operator](https://github.com/canonical/openfga-operator) A [Juju Charm](https://charmhub.io/openfga-k8s) for deploying OpenFGA on Kubernetes.
-- [Terraform for AWS/Postgres](https://github.com/craigpastro/terraform-aws-openfga)
-- [Terraform Provider for OpenFGA](https://github.com/cysp/terraform-provider-openfga)
+#### Kubernetes & Infrastructure
+
+- [Canonical OpenFGA Operator](https://github.com/canonical/openfga-operator) - A [Juju Charm](https://charmhub.io/openfga-k8s) for deploying OpenFGA on Kubernetes
 - [Kubernetes Operator](https://github.com/3schwartz/fga-operator)
-- [(Experimental) OpenFGA Terraform Provider](https://github.com/ZEISS/terraform-provider-openfga)
-- [OpenFGA Terraform Provider](https://github.com/mauriceackel/terraform-provider-openfga/)
+- [Terraform for AWS/Postgres](https://github.com/craigpastro/terraform-aws-openfga)
 
 ### Container Images
 
-- [OpenFGA Rock - OCI image based on Ubuntu built using rockcraft.](https://github.com/canonical/openfga-rock)
+- [OpenFGA Rock](https://github.com/canonical/openfga-rock) - OCI image based on Ubuntu built using rockcraft
 - [ChainGuard image](https://images.chainguard.dev/directory/image/openfga/)
 - [Docker Hardened Image](https://hub.docker.com/hardened-images/catalog/dhi/openfga)
 
@@ -97,8 +130,8 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Fine-grained authorization for AI agents using OpenFGA](https://github.com/Siddhant-K-code/agentic-authz)
 
 ### Articles & Videos
-  
-- [OpenFGA Live Modeling Guides](https://www.youtube.com/watch?v=5Lwy9aHXXHE&list=PLUR5l-oTFZqWaDdhEOVt_IfPOIbKo1Ypt)
+
+- [OpenFGA Modeling Guides](https://www.youtube.com/watch?v=5Lwy9aHXXHE&list=PLUR5l-oTFZqWaDdhEOVt_IfPOIbKo1Ypt)
 - [OpenFGA Community Presentations](https://www.youtube.com/playlist?list=PLUR5l-oTFZqUAdAibhLw7l5IdqDnQ5gga)
 - [OpenFGA Community Meetings](https://www.youtube.com/playlist?list=PLUR5l-oTFZqUneyHz-h4WzaJssgxBXdxB)
 - [OpenFGA for Python Flask Applications](https://auth0.com/blog/fine-grained-access-control-with-python-flask/)
