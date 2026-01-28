@@ -122,6 +122,9 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [ChainGuard image](https://images.chainguard.dev/directory/image/openfga/)
 - [Docker Hardened Image](https://hub.docker.com/hardened-images/catalog/dhi/openfga)
 
+### Admin UI
+- [https://github.com/yehia2amer/OpenFGA-Admin-UI](https://github.com/yehia2amer/OpenFGA-Admin-UI/)
+
 ### Sample Applications
 
 - [Go Google Drive style API](https://github.com/Sambego/fga-demo-api)
