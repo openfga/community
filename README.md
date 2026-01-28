@@ -83,6 +83,9 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [OpenFGA Rock - OCI image based on Ubuntu built using rockcraft.](https://github.com/canonical/openfga-rock)
 - [ChainGuard image](https://images.chainguard.dev/directory/image/openfga/)
 
+### Admin UI
+- [https://github.com/yehia2amer/OpenFGA-Admin-UI](https://github.com/yehia2amer/OpenFGA-Admin-UI/)
+
 ### Sample Applications
 
 - [Go Google Drive style API](https://github.com/Sambego/fga-demo-api)
