@@ -129,9 +129,11 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [Flask Demo](https://github.com/openfga/flask-demo)
 - [Fine-grained authorization for AI agents using OpenFGA](https://github.com/Siddhant-K-code/agentic-authz)
 
+
 ### Articles & Videos
 
 - [OpenFGA Modeling Guides](https://www.youtube.com/watch?v=5Lwy9aHXXHE&list=PLUR5l-oTFZqWaDdhEOVt_IfPOIbKo1Ypt)
+- [OpenFGA in Action](https://www.youtube.com/playlist?list=PLUR5l-oTFZqVEUCHUwcBzkEs-1kioF813): Learn how companies and OSS projects are using OpenFGA.
 - [OpenFGA Community Presentations](https://www.youtube.com/playlist?list=PLUR5l-oTFZqUAdAibhLw7l5IdqDnQ5gga)
 - [OpenFGA Community Meetings](https://www.youtube.com/playlist?list=PLUR5l-oTFZqUneyHz-h4WzaJssgxBXdxB)
 - [OpenFGA for Python Flask Applications](https://auth0.com/blog/fine-grained-access-control-with-python-flask/)
