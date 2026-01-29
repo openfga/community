@@ -14,7 +14,7 @@ This repository is home to the OpenFGA community resources.
 | [Documentation](https://openfga.dev/docs) | Learn about OpenFGA concepts and usage |
 | [Playground](https://play.fga.dev) | Try OpenFGA models in your browser |
 | [Official SDKs](https://openfga.dev/docs/getting-started/install-sdk) | SDKs for JS, Go, .NET, Python, Java |
-| [Discord](https://discord.gg/8naAwJfWN6) | Chat with the community |
+| [Community](https://openfga.dev/community) | Get involved in the OpenFGA community |
 | [Roadmap](https://github.com/orgs/openfga/projects/1) | See what's coming next |
 
 ## Table of Contents
