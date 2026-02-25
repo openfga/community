@@ -16,7 +16,7 @@ The current Maintainers Group for the OpenFGA Project consists of:
 | Patrick Dillon                   | <patrick.dillon@okta.com>                  | @pdillon         | Okta         | openfga.dev                     | 2025-02-07 |   
 | Poovamraj Thanganadar Thiagarajan| <poovamraj.thanganadarthiagarajan@okta.com>| @poovamraj       | Okta         | openfga                         | 2025-02-07 |  
 | Raghd Hamzeh                     | <raghd.hamzeh@okta.com>                    | @rhamzeh         | Okta         | openfga, sdks, cli, community   | 2025-02-07 |  
-| Saad Hussain                     | <saad.hussain@okta.com>                    | @GHHANDLE        | Okta         | openfga                         | 2026-02-25 |  
+| Saad Hussain                     | <saad.hussain@okta.com>                    | @saad-h1         | Okta         | openfga                         | 2026-02-25 |  
 | Sergiu Githea                    | <sergiu.githea@okta.com>                   | @sergiught       | Okta         | cli                             | 2025-02-07 |  
 | Siddhant Khare                   | <siddhantkhare2694@gmail.com>              | @Siddhant-K-code | Independent  | cli, sdks                       | 2025-03-27 |   
 | Steve Hobbs                      | <steve.hobbs@okta.com>                     | @stevehobbsdev   | Okta         | cli                             | 2025-02-07 | 
