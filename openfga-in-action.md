@@ -11,7 +11,7 @@ If you want to present, please add yourself to the list.
 | Date        | Company/Project | Presenter |
 |-------------|-----------------|-----------|
 | 2026-02-12  | Agicap          | Pauline J | 
-| 2026-03-12  |                 |           |
+| 2026-03-12  | TwoGenIdentity  | Besozzi Martin |
 | 2026-04-09  |                 |           |
 | 2026-05-16  |                 |           |
 | 2026-06-11  |                 |           |
