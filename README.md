@@ -30,7 +30,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 - [OpenFGA Elixir SDK](https://github.com/msutkowski/fga-elixir-sdk)
 - [OpenFGA Dart SDK](https://github.com/amondnet/openfga.dart)
 - [OpenFGA Rust SDK](https://github.com/repack-tech/openfga-rust-sdk)
-- [OpenFGA Ruby SDK](https://github.com/ryenski/openfga)
+- [OpenFGA Ruby SDK](https://github.com/carlastabile/openfga-ruby-sdk)
 - [OpenFGA Laravel SDK](https://github.com/evansims/openfga-laravel)
 - [OpenFGA PHP SDK](https://github.com/evansims/openfga-php)
 - [Canonical OpenFGA Library](https://github.com/canonical/ofga)
