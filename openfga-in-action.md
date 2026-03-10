@@ -10,8 +10,7 @@ If you want to present, please add yourself to the list.
 
 | Date        | Company/Project | Presenter |
 |-------------|-----------------|-----------|
-| 2026-02-12  | Agicap          | Pauline J | 
-| 2026-03-12  |                 |           |
+| 2026-03-12  | [Co-Native](https://co-native.com/) | [Simon Gottschlag](https://www.linkedin.com/in/simongottschlag) |
 | 2026-04-09  | [TwoGenIdentity](https://twogenidentity.com) | [Martin Besozzi](https://www.linkedin.com/in/embesozzi/)|
 | 2026-05-16  |                 |           |
 | 2026-06-11  |                 |           |
