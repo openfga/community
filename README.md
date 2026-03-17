@@ -27,7 +27,7 @@ This repository is home to the OpenFGA community resources.
   - [AI Tooling](#ai-tooling-that-helps-with-openfga-implementation)
   - [Management Applications](#openfga-management-applications)
   - [Integrations](#integrations)
-  - [IDEs and Editors](#ides-or-editors)
+  - [IDEs or Editors](#ides-or-editors)
   - [API Gateways / Proxies](#api-gateways--proxies)
   - [Operations](#operations)
   - [Container Images](#container-images)
