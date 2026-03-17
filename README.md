@@ -41,6 +41,7 @@ This repository is home to the OpenFGA community resources.
 - To report issues in a repository, use the GitHub Issues section in that repository
 - To contribute, check out the [contribution guidelines](https://github.com/openfga/.github/blob/main/CONTRIBUTING.md)
 
+## Governance
 
 Learn about the OpenFGA project's Governance model by reviewing [this GOVERNANCE.md file](https://github.com/openfga/.github/blob/main/GOVERNANCE.md).
 
