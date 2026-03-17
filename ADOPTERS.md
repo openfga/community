@@ -48,6 +48,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [X-HR LABS](https://x-hr.co) | X-HR is a modern HR tech platform that empowers businesses with full freedom to use and grow on their own terms. We leverage OpenFGA to implement robust, relationship-based access control across company data and organizational structures. |
 | [Platform Mesh](https://platform-mesh.io/) | NeoNephos' Platform Mesh enables the discovery, access, ordering and choreographing of services from multiple providers through the Kubernetes API. |
 | [Distyl](https://distyl.ai/) | Distyl is an AI solutions company for F500 enterprises. Distyl leverages OpenFGA for fine-grained access control in their agentic platform. |
+| [Encube](https://getencube.com/) | Encube is a visual collaboration platform where hardware teams come together to explore designs, share insights, and shape ideas to invent better products faster. Given the sensitive IP that Encube's customers bring to the platform, it is vital to ensure that access control is strict. Encube leverages OpenFGA for fine-grained access control for agentic use cases, as well as hierarchical and relational access control where classic access control simply doesn't suffice. |
 
 ## Companies offering OpenFGA implementation services
 

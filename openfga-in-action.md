@@ -10,9 +10,8 @@ If you want to present, please add yourself to the list.
 
 | Date        | Company/Project | Presenter |
 |-------------|-----------------|-----------|
-| 2026-02-12  |                 |           | 
-| 2026-03-12  |                 |           |
-| 2026-04-09  |                 |           |
+| 2026-03-12  | [Co-Native](https://co-native.com/) | [Simon Gottschlag](https://www.linkedin.com/in/simongottschlag) |
+| 2026-04-09  | [TwoGenIdentity](https://twogenidentity.com) | [Martin Besozzi](https://www.linkedin.com/in/embesozzi/)|
 | 2026-05-16  |                 |           |
 | 2026-06-11  |                 |           |
 | 2026-07-09  |                 |           |
@@ -24,8 +23,8 @@ If you want to present, please add yourself to the list.
 
 ### Past Presentations
 
-| Date       | Company/Project                     | Presenter                                                       | Content                                        |
-|------------|-------------------------------------|-----------------------------------------------------------------|---------------------------------------------|
-| 2025-12-11 | [Openlane](https://theopenlane.io) | [Sarah Funkhouser](https://www.linkedin.com/in/sfunkhouser/)   | [Video](https://www.youtube.com/watch?v=ZdlftEKQ0UA) |
-| 2025-11-13 | [Headspace](https://headspace.com) | [Jeremy Loy](https://www.linkedin.com/in/jeremy-loy-413437b9/) | [Video](https://www.youtube.com/watch?v=xCu39aG7B1A)| 
-
+| Date       | Company/Project                     | Presenter                                                       | Content                                              |
+|------------|-------------------------------------|-----------------------------------------------------------------|------------------------------------------------------|
+| 2026-02-12 | [Agicap](https://agicap.com)        | [Pauline Jamin](https://www.linkedin.com/in/paulinejamin)       | [Video](https://www.youtube.com/watch?v=XBHqGFfe-K4) |
+| 2025-12-11 | [Openlane](https://theopenlane.io)  | [Sarah Funkhouser](https://www.linkedin.com/in/sfunkhouser/)    | [Video](https://www.youtube.com/watch?v=ZdlftEKQ0UA) |
+| 2025-11-13 | [Headspace](https://headspace.com)  | [Jeremy Loy](https://www.linkedin.com/in/jeremy-loy-413437b9/)  | [Video](https://www.youtube.com/watch?v=xCu39aG7B1A) | 
