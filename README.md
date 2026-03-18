@@ -115,6 +115,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 
 - [Canonical OpenFGA Operator](https://github.com/canonical/openfga-operator) - A [Juju Charm](https://charmhub.io/openfga-k8s) for deploying OpenFGA on Kubernetes
 - [Kubernetes Operator](https://github.com/3schwartz/fga-operator)
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with a guided [OpenFGA install mission](https://github.com/kubestellar/console-kb/blob/master/solutions/cncf-install/install-openfga.json)
 - [Terraform for AWS/Postgres](https://github.com/craigpastro/terraform-aws-openfga)
 
 ### Container Images
