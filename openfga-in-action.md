@@ -26,4 +26,4 @@ If you want to present, please add yourself to the list.
 | 2026-03-12 | [Vitrolife Group](https://www.vitrolife.com/) | [Simon Gottschlag](https://www.linkedin.com/in/simongottschlag) | [Video](https://youtu.be/nwu5SiiMpM8)                |
 | 2026-02-12 | [Agicap](https://agicap.com)                  | [Pauline Jamin](https://www.linkedin.com/in/paulinejamin)       | [Video](https://www.youtube.com/watch?v=XBHqGFfe-K4) |
 | 2025-12-11 | [Openlane](https://theopenlane.io)            | [Sarah Funkhouser](https://www.linkedin.com/in/sfunkhouser/)    | [Video](https://www.youtube.com/watch?v=ZdlftEKQ0UA) |
-| 2025-11-13 | [Headspace](https://headspace.com)            | [Jeremy Loy](https://www.linkedin.com/in/jeremy-loy-413437b9/)  | [Video](https://www.youtube.com/watch?v=xCu39aG7B1A) | 
+| 2025-11-13 | [Headspace](https://headspace.com)            | [Jeremy Loy](https://www.linkedin.com/in/jeremy-loy-413437b9/)  | [Video](https://www.youtube.com/watch?v=xCu39aG7B1A) |
