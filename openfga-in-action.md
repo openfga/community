@@ -12,7 +12,7 @@ If you want to present, please add yourself to the list.
 |-------------|-----------------|-----------|
 | 2026-06-11  |                 |           |
 | 2026-07-09  |                 |           |
-| 2026-08-13  |                 |           |
+| 2026-08-13  | [Kepler Group](https://www.keplergrp.com/)  | [Leah Einhorn](https://www.linkedin.com/in/leaheinhorn/) |
 | 2026-09-10  |                 |           |
 | 2026-10-08  |                 |           |
 | 2026-11-12  |                 |           |
