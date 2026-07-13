@@ -3,10 +3,10 @@ The current Maintainers Group for the OpenFGA Project consists of:
 | Name                             | Email                                      | Github           | Organization |	Repositories/Areas of Expertise | Added/Renewed On |
 | ---------------------------------|--------------------------------------------|------------------|--------------|---------------------------------|------------|
 | Adrian Tam                       | <adrian.tam@okta.com>                      | @adriantam       | Okta         | openfga                         | 2026-02-25 |  
+| Alberto Perdomo                  | <alberto.perdomo@okta.com>                 | @albertoperdomo  | Okta         | openfga.dev, community          | 2026-07-13 |  
 | Andres Aguiar                    | <andres.aguiar@okta.com>                   | @aaguiarz        | Okta         | openfga.dev, community          | 2026-02-25 |  
 | Anurag Bandyopadhyay             | <anurag.bandyopadhyay@okta.com>            | @SoulPancake     | Okta         | sdks, cli                       | 2026-02-25 |  
 | Dan Cech                         | <dcech@grafana.com>                        | @DanCech         | Grafana Labs | openfga                         | 2026-02-25 | 
-| Daniel Yeam                      | <daniel.yeam@okta.com>                     | @dyeam0          | Okta         | openfga.dev                     | 2026-02-25 |  
 | Ewan Harris                      | <ewan.harris@okta.com>                     | @ewanharris      | Okta         | openfga, cli, sdks              | 2026-02-25 |  
 | Jakub Hertyk                     | <jakub.hertyk@okta.com>                    | @curfew-marathon | Okta         | sdks, cli                       | 2026-02-25 |  
 | Jim Anderson                     | <jim.anderson@okta.com>                    | @jimmyjames      | Okta         | sdks                            | 2026-02-25 |  
