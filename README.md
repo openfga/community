@@ -72,6 +72,7 @@ Navigate to the [brand-assets folder](https://github.com/openfga/community/tree/
 | [OpenFGA Tuple Manager](https://github.com/paulosuzart/fgamanager) | Tool |
 | [Tuna - Tuple Generator for OpenFGA](https://github.com/aberforth4/tuna) | Tool |
 | [Postman Collection](https://github.com/guillempuche/postman_openfga) | Tool |
+| [ofga - an alternative CLI & TUI for OpenFGA](https://github.com/sergiught/openfga-cli) | Tool |
 
 
 ### AI Tooling that helps with OpenFGA implementation
