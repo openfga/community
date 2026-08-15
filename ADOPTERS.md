@@ -49,6 +49,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Distyl](https://distyl.ai/) | Distyl is an AI solutions company for F500 enterprises. Distyl leverages OpenFGA for fine-grained access control in their agentic platform. |
 | [Encube](https://getencube.com/) | Encube is a visual collaboration platform where hardware teams come together to explore designs, share insights, and shape ideas to invent better products faster. Given the sensitive IP that Encube's customers bring to the platform, it is vital to ensure that access control is strict. Encube leverages OpenFGA for fine-grained access control for agentic use cases, as well as hierarchical and relational access control where classic access control simply doesn't suffice. |
 | [SigNoz](https://signoz.io/) | SigNoz is an open-source observability platform. SigNoz uses OpenFGA to power fine-grained, role-based access control across organizations, teams, and resources. |
+| [SagaLabs](https://sagalabs.dk) | SagaLabs is a cyber range platform and cybersecurity training provider. We use OpenFGA for ReBAC across admins, instructors, organizations, trainings, cyber ranges, and LMS content, ensuring users only have access to the resources relevant to them.|
 
 ## Companies offering OpenFGA implementation services
 
