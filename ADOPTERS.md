@@ -50,6 +50,7 @@ These companies and projects are using OpenFGA in production.  If your company i
 | [Encube](https://getencube.com/) | Encube is a visual collaboration platform where hardware teams come together to explore designs, share insights, and shape ideas to invent better products faster. Given the sensitive IP that Encube's customers bring to the platform, it is vital to ensure that access control is strict. Encube leverages OpenFGA for fine-grained access control for agentic use cases, as well as hierarchical and relational access control where classic access control simply doesn't suffice. |
 | [SigNoz](https://signoz.io/) | SigNoz is an open-source observability platform. SigNoz uses OpenFGA to power fine-grained, role-based access control across organizations, teams, and resources. |
 | [SagaLabs](https://sagalabs.dk) | SagaLabs is a cyber range platform and cybersecurity training provider. We use OpenFGA for ReBAC across admins, instructors, organizations, trainings, cyber ranges, and LMS content, ensuring users only have access to the resources relevant to them.|
+| [Authorizer](https://authorizer.dev) | [Authorizer](https://github.com/authorizerdev/authorizer) is an open-source, self-hosted authentication and authorization server. It embeds OpenFGA in-process as its authorization engine, backed by SQLite, PostgreSQL, or MySQL with datastore migrations run on startup, so a single binary ships ReBAC alongside login, sessions, and token issuance — no separate authorization service to deploy. Authorization models are authored in the OpenFGA DSL from Authorizer's admin dashboard, and model management, tuple writes, and Check / BatchCheck / ListObjects / ListUsers / Expand decisions are exposed on every Authorizer API surface: GraphQL, REST, gRPC, and MCP for agent authorization. |
 
 ## Companies offering OpenFGA implementation services
 
@@ -67,3 +68,4 @@ These companies offer services and assistance implementing solutions with OpenFG
 - Configu: [Authorization Over Configurations using OpenFGA](https://configu.com/blog/authorization-over-configurations-using-openfga/)
 - ExcID: [Relation-based access control using Verifiable Credentials](https://medium.com/@excid/relation-based-access-control-using-verifiable-credentials-d8e542a0ce1)
 - Stacklok: [Implementing multi-tenant relationship-based authorization with OpenFGA](https://www.youtube.com/watch?v=zIJOBLbaZOc) (video)
+- Authorizer: [Permission-Aware RAG, Self-Hosted: OpenFGA + Qdrant Demo](https://blog.authorizer.dev/permission-aware-rag-authorizer-openfga-qdrant)
