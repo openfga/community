@@ -68,3 +68,4 @@ These companies offer services and assistance implementing solutions with OpenFG
 - Configu: [Authorization Over Configurations using OpenFGA](https://configu.com/blog/authorization-over-configurations-using-openfga/)
 - ExcID: [Relation-based access control using Verifiable Credentials](https://medium.com/@excid/relation-based-access-control-using-verifiable-credentials-d8e542a0ce1)
 - Stacklok: [Implementing multi-tenant relationship-based authorization with OpenFGA](https://www.youtube.com/watch?v=zIJOBLbaZOc) (video)
+- Authorizer: [Permission-Aware RAG, Self-Hosted: OpenFGA + Qdrant Demo](https://blog.authorizer.dev/permission-aware-rag-authorizer-openfga-qdrant)
