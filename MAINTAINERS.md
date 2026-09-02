@@ -8,7 +8,8 @@ The current Maintainers Group for the OpenFGA Project consists of:
 | Anurag Bandyopadhyay             | <anurag.bandyopadhyay@okta.com>            | @SoulPancake     | Okta         | sdks, cli                       | 2026-02-25 |  
 | Dan Cech                         | <dcech@grafana.com>                        | @DanCech         | Grafana Labs | openfga                         | 2026-02-25 | 
 | Ewan Harris                      | <ewan.harris@okta.com>                     | @ewanharris      | Okta         | openfga, cli, sdks              | 2026-02-25 |  
-| Jakub Hertyk                     | <jakub.hertyk@okta.com>                    | @curfew-marathon | Okta         | sdks, cli                       | 2026-02-25 |  
+| Hemanth Reddy Yalla              | <hemanthreddy.yalla@okta.com>              | @hemanthreddy7   | Okta         | sdks, cli                       | 2026-09-02 |  
+| Jakub Hertyk                     | <jakub.hertyk@okta.com>                    | @curfew-marathon | Okta         | openfga, sdks, cli, openfga.dev | 2026-02-25 |  
 | Jim Anderson                     | <jim.anderson@okta.com>                    | @jimmyjames      | Okta         | sdks                            | 2026-02-25 |  
 | Jose Padilla                     | <jose.padilla@okta.com>                    | @jpadilla        | Okta         | openfga                         | 2026-02-25 |  
 | Joshua Jones                     | <joshua.jones@okta.com>                    | @senojj          | Okta         | openfga                         | 2026-02-25 |   
