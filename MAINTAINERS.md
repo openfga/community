@@ -7,11 +7,13 @@ The current Maintainers Group for the OpenFGA Project consists of:
 | Andres Aguiar                    | <andres.aguiar@okta.com>                   | @aaguiarz        | Okta         | openfga.dev, community          | 2026-02-25 |  
 | Anurag Bandyopadhyay             | <anurag.bandyopadhyay@okta.com>            | @SoulPancake     | Okta         | sdks, cli                       | 2026-02-25 |  
 | Dan Cech                         | <dcech@grafana.com>                        | @DanCech         | Grafana Labs | openfga                         | 2026-02-25 | 
+| David Patrick                    | <david.patrick@okta.com>                   | @davidpatrick    | Okta         | cli                             | 2026-09-03 |
 | Ewan Harris                      | <ewan.harris@okta.com>                     | @ewanharris      | Okta         | openfga, cli, sdks              | 2026-02-25 |  
 | Hemanth Reddy Yalla              | <hemanthreddy.yalla@okta.com>              | @hemanthreddy7   | Okta         | sdks, cli                       | 2026-09-02 |  
 | Jakub Hertyk                     | <jakub.hertyk@okta.com>                    | @curfew-marathon | Okta         | openfga, sdks, cli, openfga.dev | 2026-02-25 |  
 | Jim Anderson                     | <jim.anderson@okta.com>                    | @jimmyjames      | Okta         | sdks                            | 2026-02-25 |  
 | Jose Padilla                     | <jose.padilla@okta.com>                    | @jpadilla        | Okta         | openfga                         | 2026-02-25 |  
+| Jordan Weiner                    | <jordan.weiner@okta.com>                   | @jnweiner-auth0  | Okta         | cli                             | 2026-09-03 |
 | Joshua Jones                     | <joshua.jones@okta.com>                    | @senojj          | Okta         | openfga                         | 2026-02-25 |   
 | Justin Cohen                     | <justin.cohen@okta.com>                    | @justincoh       | Okta         | openfga                         | 2026-02-25 |  
 | Maurice Ackel                    | <maurice.ackel@netlight.com>               | @mauriceackel    | Netlight     | terraform provider              | 2026-02-25 |   
