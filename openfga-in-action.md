@@ -13,7 +13,7 @@ If you want to present, please add yourself to the list.
 | 2026-06-11  |                 |           |
 | 2026-07-09  |                 |           |
 | 2026-08-13  | [Kepler Group](https://www.keplergrp.com/)  | [Leah Einhorn](https://www.linkedin.com/in/leaheinhorn/) |
-| 2026-09-10  |                 |           |
+| 2026-09-10  | [SigNoz](https://signoz.io/)  | [Vikrant Gupta](https://www.linkedin.com/in/vikrant-gupta-0107a9165/) |
 | 2026-10-08  |                 |           |
 | 2026-11-12  |                 |           |
 | 2026-12-10  |                 |           |
