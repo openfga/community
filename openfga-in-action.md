@@ -10,18 +10,19 @@ If you want to present, please add yourself to the list.
 
 | Date        | Company/Project | Presenter |
 |-------------|-----------------|-----------|
-| 2026-06-11  |                 |           |
-| 2026-07-09  |                 |           |
-| 2026-08-13  | [Kepler Group](https://www.keplergrp.com/)  | [Leah Einhorn](https://www.linkedin.com/in/leaheinhorn/) |
 | 2026-09-10  | [SigNoz](https://signoz.io/)  | [Vikrant Gupta](https://www.linkedin.com/in/vikrant-gupta-0107a9165/) |
 | 2026-10-08  |                 |           |
 | 2026-11-12  |                 |           |
 | 2026-12-10  |                 |           |
+| 2027-01-14  |                 |           |
+
 
 ### Past Presentations
 
 | Date       | Company/Project                               | Presenter                                                       | Content                                              |
 |------------|-----------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------|
+| 2026-08-13 | [Kepler Group](https://www.keplergrp.com/)    | [Leah Einhorn](https://www.linkedin.com/in/leaheinhorn/)        | [Video](https://www.youtube.com/watch?v=iouR8TL87Xc) |
+| 2026-06-11 | [Datum](https://datum.net)                    | [José Szychowski](https://www.linkedin.com/in/jose-szychowski/) | [Video](https://www.youtube.com/watch?v=MWADEvgA6eo) |
 | 2026-04-09 | [TwoGenIdentity](https://twogenidentity.com)  | [Martin Besozzi](https://www.linkedin.com/in/embesozzi/)        | [Video](https://www.youtube.com/watch?v=agbzpa3cayg) |
 | 2026-03-12 | [Vitrolife Group](https://www.vitrolife.com/) | [Simon Gottschlag](https://www.linkedin.com/in/simongottschlag) | [Video](https://youtu.be/nwu5SiiMpM8)                |
 | 2026-02-12 | [Agicap](https://agicap.com)                  | [Pauline Jamin](https://www.linkedin.com/in/paulinejamin)       | [Video](https://www.youtube.com/watch?v=XBHqGFfe-K4) |
