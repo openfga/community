@@ -6,7 +6,8 @@ If you are using OpenFGA or providing services and your name is not on this list
 
 ## Companies/Projects using OpenFGA in production
 
-These companies and projects are using OpenFGA in production.  If your company is using OpenFGA open a PR to add your company or project name and a description of how you are using OpenFGA.
+These companies and projects are using OpenFGA in production. You can also learn about OpenFGA adoption stories in the [OpenFGA in Action Playlist](https://www.youtube.com/playlist?list=PLUR5l-oTFZqVEUCHUwcBzkEs-1kioF813).
+
 
 | Company / Project | Use Case |
 |-------------------|----------|
