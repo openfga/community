@@ -16,7 +16,6 @@ If you want to present, please add yourself to the list.
 | 2026-12-10  |                 |           |
 | 2027-01-14  |                 |           |
 
-
 ### Past Presentations
 
 | Date       | Company/Project                               | Presenter                                                       | Content                                              |
