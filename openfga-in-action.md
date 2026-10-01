@@ -10,17 +10,18 @@ If you want to present, please add yourself to the list.
 
 | Date        | Company/Project | Presenter |
 |-------------|-----------------|-----------|
-| 2026-09-10  | [SigNoz](https://signoz.io/)  | [Vikrant Gupta](https://www.linkedin.com/in/vikrant-gupta-0107a9165/) |
 | 2026-10-08  |                 |           |
 | 2026-11-12  |                 |           |
 | 2026-12-10  |                 |           |
 | 2027-01-14  |                 |           |
+| 2027-02-11  |                 |           |
 
 
 ### Past Presentations
 
 | Date       | Company/Project                               | Presenter                                                       | Content                                              |
 |------------|-----------------------------------------------|-----------------------------------------------------------------|------------------------------------------------------|
+| 2026-09-10 | [SigNoz](https://signoz.io/)                  | [Vikrant Gupta](https://www.linkedin.com/in/vikrant-gupta-0107a9165/) | [Video](https://youtu.be/4GL6-I4GdGQ)         |
 | 2026-08-13 | [Kepler Group](https://www.keplergrp.com/)    | [Leah Einhorn](https://www.linkedin.com/in/leaheinhorn/)        | [Video](https://www.youtube.com/watch?v=iouR8TL87Xc) |
 | 2026-06-11 | [Datum](https://datum.net)                    | [José Szychowski](https://www.linkedin.com/in/jose-szychowski/) | [Video](https://www.youtube.com/watch?v=MWADEvgA6eo) |
 | 2026-04-09 | [TwoGenIdentity](https://twogenidentity.com)  | [Martin Besozzi](https://www.linkedin.com/in/embesozzi/)        | [Video](https://www.youtube.com/watch?v=agbzpa3cayg) |
