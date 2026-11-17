@@ -58,6 +58,7 @@ These companies and projects are using OpenFGA in production. You can also learn
 | [Eternal](https://www.eternal.com/) | At Eternal, we use OpenFGA to implement fine-grained, hierarchical authorization across the admin panels of our different lines of business. |
 | [Linux Foundation](https://www.linuxfoundation.org/) | The Linux Foundation uses OpenFGA for access control on its LFX platform and LFX MCP server. The LFX stack centrally evaluates permissions at our API Gateway layer, over a model implementing the relationships between staff, project foundations, member companies, and the broader community. |
 | [Supabase](https://supabase.com/) | Supabase implements the authorization layer of its [Management API](https://supabase.com/docs/reference/api/introduction) using OpenFGA. It handles organization- and project-based roles, project branching relationships, permission hierarchies, and all user-initiated actions, with granular access scoping for JWTs, scoped personal access tokens, and OAuth app installations. |
+| [9fin](https://9fin.com/) | 9fin is an AI Native credit markets intelligence platform. 9fin uses OpenFGA as the authorization layer behind its platform to model relationships between users, organisations, teams and the content they can access. |
 
 ## Companies offering OpenFGA implementation services
 
